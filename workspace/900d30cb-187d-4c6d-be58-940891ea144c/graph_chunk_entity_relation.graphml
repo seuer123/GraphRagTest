@@ -1,0 +1,1382 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d7" for="edge" attr.name="order" attr.type="long"/>
+<key id="d6" for="edge" attr.name="source_id" attr.type="string"/>
+<key id="d5" for="edge" attr.name="description" attr.type="string"/>
+<key id="d4" for="edge" attr.name="weight" attr.type="double"/>
+<key id="d3" for="node" attr.name="clusters" attr.type="string"/>
+<key id="d2" for="node" attr.name="source_id" attr.type="string"/>
+<key id="d1" for="node" attr.name="description" attr.type="string"/>
+<key id="d0" for="node" attr.name="entity_type" attr.type="string"/>
+<graph edgedefault="undirected"><node id="&quot;淘宝&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"淘宝 is a Chinese e-commerce platform where users can search for and purchase a wide variety of products, including smartwatches."&lt;SEP&gt;"淘宝 is a leading Chinese online shopping platform, part of the Alibaba Group, where users can search for and purchase products."</data>
+  <data key="d2">chunk-b9456a78eb751575a168042b2bc43533&lt;SEP&gt;chunk-cce7da72624787e362aa28d2acfaf5ec</data>
+  <data key="d3">[{"level": 0, "cluster": 3}]</data>
+</node>
+<node id="&quot;京东&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"京东 (JD.com) is a leading Chinese e-commerce platform, offering a wide range of products and services to consumers and businesses."&lt;SEP&gt;"京东 (Jingdong) is a major Chinese e-commerce platform, offering a wide range of products and services, including electronics like laptops and smartwatches."&lt;SEP&gt;"京东 is a Chinese e-commerce platform where users can search for, purchase, and review products."&lt;SEP&gt;"京东 is a large Chinese e-commerce platform offering a wide range of products and services, including electronics, household goods, and more."&lt;SEP&gt;"京东 is a large e-commerce platform in China, where users can search for and purchase a wide variety of products."&lt;SEP&gt;"京东 is a major Chinese e-commerce platform known for a wide range of products and services, including electronics, fashion, and household items."&lt;SEP&gt;"京东 is a major Chinese e-commerce platform that provides a wide range of products and services to consumers."&lt;SEP&gt;"京东 is a major Chinese e-commerce platform that sells a wide range of products, including electronics, household goods, and more."&lt;SEP&gt;"京东 is a major Chinese e-commerce platform where users can search for and purchase a variety of products, including electronics and household items."&lt;SEP&gt;"京东 is a major Chinese e-commerce platform where users can search for and purchase a wide variety of products, including electronics, household appliances, and personal items."&lt;SEP&gt;"京东 is a major Chinese e-commerce platform where users can search for and purchase a wide variety of products."&lt;SEP&gt;"京东 is a major Chinese e-commerce platform, often used for purchasing a wide variety of products including electronics and household items."&lt;SEP&gt;"京东 is a major Chinese e-commerce platform, often used for purchasing electronics and other goods."&lt;SEP&gt;"京东 is a popular Chinese e-commerce platform where users can search for and purchase various products, including electronics and household items."&lt;SEP&gt;"京东 is an e-commerce platform in China, providing a wide range of products including laptops and tools for business analytics."&lt;SEP&gt;"京东是一个知名的中国电商平台，用户可以在此搜索和购买各种商品。"&lt;SEP&gt;"京东是中国的一个大型电商平台，提供多种商品的在线购买服务。"</data>
+  <data key="d2">chunk-bd3127c4903686f8bcef11a5c4acb5d3&lt;SEP&gt;chunk-427d5b4d1ceeb7f9eb8077a66a05b4ba&lt;SEP&gt;chunk-f788c884a129889a409d63653e8253fa&lt;SEP&gt;chunk-2cbf3c15c8d390deeece4264e99ab2e4&lt;SEP&gt;chunk-b9456a78eb751575a168042b2bc43533&lt;SEP&gt;chunk-505e75bd34d1c89169f88913b15b44d2&lt;SEP&gt;chunk-04325abd2b6cb1a9337f84f21191eef2&lt;SEP&gt;chunk-c4fc401f0b2d00ff0d07c7f017dbe262&lt;SEP&gt;chunk-d9e1d23a7dcfa43c2aa489e8aad5dfd7&lt;SEP&gt;chunk-d2159607b60e4c40504e9ad2ddb4027f&lt;SEP&gt;chunk-63ad3bc0685983f634f5d2491076bcac&lt;SEP&gt;chunk-c1d7f39624d58e7a897faa20dab72060&lt;SEP&gt;chunk-ab43fa60c3f316e514d3f34e808777bb&lt;SEP&gt;chunk-402e3cd68d26a8644b8c512587a514f2&lt;SEP&gt;chunk-cce7da72624787e362aa28d2acfaf5ec&lt;SEP&gt;chunk-111e3a99ab3dfa37226d474cf683b165&lt;SEP&gt;chunk-bdcbaa514e612579c09f028b28e6da65</data>
+  <data key="d3">[{"level": 0, "cluster": 2}]</data>
+</node>
+<node id="&quot;智能手表&quot;">
+  <data key="d0">"PRODUCT"</data>
+  <data key="d1">"智能手表 (Smartwatch) is a category of products that users search for on JD.com, characterized by their ability to track health and provide smart notifications."&lt;SEP&gt;"智能手表 (Smartwatch) is a wearable device with advanced features, such as health tracking, notifications, and sometimes cellular connectivity."</data>
+  <data key="d2">chunk-63ad3bc0685983f634f5d2491076bcac&lt;SEP&gt;chunk-cce7da72624787e362aa28d2acfaf5ec</data>
+</node>
+<node id="&quot;笔记本电脑&quot;">
+  <data key="d0">"PRODUCT"</data>
+  <data key="d1">"笔记本电脑 (Laptop) is a portable personal computer, widely used for work, entertainment, and communication."&lt;SEP&gt;"笔记本电脑 (Laptop) is a product category on JD.com, often searched by users for various purposes such as work and entertainment."&lt;SEP&gt;"笔记本电脑 is a product category frequently searched on JD.com, indicating a user's interest in laptops."&lt;SEP&gt;"笔记本电脑 refers to a category of portable computers that are widely searched and purchased on JD.com."&lt;SEP&gt;"笔记本电脑 refers to a category of portable computers, which is the focus of a search query on JD (京东)."&lt;SEP&gt;"笔记本电脑 refers to a portable personal computer, a common search item on e-commerce platforms like JD."&lt;SEP&gt;"笔记本电脑 refers to laptop computers, a common search item on e-commerce platforms like JD.com."&lt;SEP&gt;"笔记本电脑 refers to laptops, a type of portable computer available on JD and a common search item for users."&lt;SEP&gt;"笔记本电脑 refers to laptops, a type of product often searched for on 京东."&lt;SEP&gt;"笔记本电脑 refers to laptops, which are frequently searched and purchased on JD.com."&lt;SEP&gt;"笔记本电脑是用户在京东上频繁搜索的产品，用于工作、学习或娱乐等目的。"</data>
+  <data key="d2">chunk-427d5b4d1ceeb7f9eb8077a66a05b4ba&lt;SEP&gt;chunk-f788c884a129889a409d63653e8253fa&lt;SEP&gt;chunk-cce7da72624787e362aa28d2acfaf5ec&lt;SEP&gt;chunk-2cbf3c15c8d390deeece4264e99ab2e4&lt;SEP&gt;chunk-04325abd2b6cb1a9337f84f21191eef2&lt;SEP&gt;chunk-c4fc401f0b2d00ff0d07c7f017dbe262&lt;SEP&gt;chunk-d9e1d23a7dcfa43c2aa489e8aad5dfd7&lt;SEP&gt;chunk-63ad3bc0685983f634f5d2491076bcac&lt;SEP&gt;chunk-c1d7f39624d58e7a897faa20dab72060&lt;SEP&gt;chunk-bd3127c4903686f8bcef11a5c4acb5d3&lt;SEP&gt;chunk-402e3cd68d26a8644b8c512587a514f2</data>
+  <data key="d3">[{"level": 0, "cluster": 2}]</data>
+</node>
+<node id="&quot;白条&quot;">
+  <data key="d0">"PRODUCT"</data>
+  <data key="d1">"白条 (Baitiao) is a financial product offered by JD Finance, allowing users to make purchases on credit."</data>
+  <data key="d2">chunk-cce7da72624787e362aa28d2acfaf5ec</data>
+</node>
+<node id="&quot;电视机&quot;">
+  <data key="d0">"PRODUCT"</data>
+  <data key="d1">"电视机 (Television) is an electronic device for receiving and displaying video and audio content, often a significant household appliance."&lt;SEP&gt;"电视机 is a product category that can be searched for on JD.com, indicating a user's interest in televisions."&lt;SEP&gt;"电视机 refers to a category of products on JD.com, typically referring to televisions."&lt;SEP&gt;"电视机 refers to a device for receiving and displaying television broadcasts, another common search item on e-commerce platforms."&lt;SEP&gt;"电视机 refers to the process of searching for and interacting with products related to televisions on the JD platform."</data>
+  <data key="d2">chunk-2cbf3c15c8d390deeece4264e99ab2e4&lt;SEP&gt;chunk-505e75bd34d1c89169f88913b15b44d2&lt;SEP&gt;chunk-d9e1d23a7dcfa43c2aa489e8aad5dfd7&lt;SEP&gt;chunk-d2159607b60e4c40504e9ad2ddb4027f&lt;SEP&gt;chunk-cce7da72624787e362aa28d2acfaf5ec</data>
+  <data key="d3">[{"level": 0, "cluster": 2}]</data>
+</node>
+<node id="&quot;机器人&quot;">
+  <data key="d0">"PRODUCT"</data>
+  <data key="d1">"机器人 (Robot) is a machine capable of carrying out a complex series of actions automatically, particularly programmable by a computer."</data>
+  <data key="d2">chunk-cce7da72624787e362aa28d2acfaf5ec</data>
+</node>
+<node id="&quot;保温杯&quot;">
+  <data key="d0">"PRODUCT"</data>
+  <data key="d1">"保温杯 (Thermal Cup) is a container designed to keep beverages at a desired temperature for an extended period."</data>
+  <data key="d2">chunk-cce7da72624787e362aa28d2acfaf5ec</data>
+</node>
+<node id="&quot;手机&quot;">
+  <data key="d0">"PRODUCT"</data>
+  <data key="d1">"手机 (Mobile Phone) is a handheld device used for communication, accessing the internet, and various other functions."&lt;SEP&gt;"手机 (Mobile Phone) is a product category on JD.com, frequently searched for by users looking for communication devices."&lt;SEP&gt;"手机 is a product category that can be searched for on JD.com, indicating a user's interest in mobile phones."&lt;SEP&gt;"手机 refers to a category of products on JD.com, typically referring to mobile phones."&lt;SEP&gt;"手机 refers to mobile phones, a popular category of products on JD, often searched by users for the best deals and reviews."&lt;SEP&gt;"手机 refers to mobile phones, another common search item on e-commerce platforms like JD.com."&lt;SEP&gt;"手机是用户在京东上搜索价格最低的十款商品，并保存截图到本地excel表格的产品。"</data>
+  <data key="d2">chunk-427d5b4d1ceeb7f9eb8077a66a05b4ba&lt;SEP&gt;chunk-2cbf3c15c8d390deeece4264e99ab2e4&lt;SEP&gt;chunk-63ad3bc0685983f634f5d2491076bcac&lt;SEP&gt;chunk-d2159607b60e4c40504e9ad2ddb4027f&lt;SEP&gt;chunk-c1d7f39624d58e7a897faa20dab72060&lt;SEP&gt;chunk-bd3127c4903686f8bcef11a5c4acb5d3&lt;SEP&gt;chunk-cce7da72624787e362aa28d2acfaf5ec</data>
+  <data key="d3">[{"level": 0, "cluster": 5}]</data>
+</node>
+<node id="&quot;平板电脑&quot;">
+  <data key="d0">"PRODUCT"</data>
+  <data key="d1">"平板电脑 (Tablet) is a portable computer with a touchscreen display, often used for entertainment, work, and education."&lt;SEP&gt;"平板电脑 (Tablet) is a product category on JD.com, known for its portability and versatility in use."&lt;SEP&gt;"平板电脑 refers to tablets, a type of portable computing device that users can search for on JD."</data>
+  <data key="d2">chunk-63ad3bc0685983f634f5d2491076bcac&lt;SEP&gt;chunk-bd3127c4903686f8bcef11a5c4acb5d3&lt;SEP&gt;chunk-cce7da72624787e362aa28d2acfaf5ec</data>
+</node>
+<node id="&quot;石昊&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"石昊 is a contact on DingTalk, likely a colleague or friend who receives information about products from JD.com."&lt;SEP&gt;"石昊 is a contact on DingTalk, likely a colleague or friend who receives information from the user."&lt;SEP&gt;"石昊 is a contact on the user's钉钉(DingTalk) contact list, to whom a message is sent."&lt;SEP&gt;"石昊 is a person mentioned in the text, who is to receive information via the DingTalk application."&lt;SEP&gt;"石昊 is a person whose name is searched for in the DingTalk application, possibly a colleague or contact."&lt;SEP&gt;"石昊 is a user of钉钉, mentioned as a recipient of a file containing product information from 京东."&lt;SEP&gt;"石昊 is an individual who receives information through enterprise messaging platforms like WeChat Work (企微) and DingTalk (钉钉)."&lt;SEP&gt;"石昊 is another contact on the user's钉钉, to whom a message with a product name and price from 京东 is sent."</data>
+  <data key="d2">chunk-b9456a78eb751575a168042b2bc43533&lt;SEP&gt;chunk-505e75bd34d1c89169f88913b15b44d2&lt;SEP&gt;chunk-d9e1d23a7dcfa43c2aa489e8aad5dfd7&lt;SEP&gt;chunk-d2159607b60e4c40504e9ad2ddb4027f&lt;SEP&gt;chunk-c1d7f39624d58e7a897faa20dab72060&lt;SEP&gt;chunk-cce7da72624787e362aa28d2acfaf5ec&lt;SEP&gt;chunk-402e3cd68d26a8644b8c512587a514f2&lt;SEP&gt;chunk-bdcbaa514e612579c09f028b28e6da65</data>
+  <data key="d3">[{"level": 0, "cluster": 4}]</data>
+</node>
+<node id="&quot;企微&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"企微 (WeChat Work) is a business communication and collaboration platform developed by Tencent, used for internal communication in companies."</data>
+  <data key="d2">chunk-cce7da72624787e362aa28d2acfaf5ec</data>
+</node>
+<node id="&quot;钉钉&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"钉钉 (DingTalk) is a Chinese communication and collaboration platform used by businesses and organizations."&lt;SEP&gt;"钉钉 (DingTalk) is a business communication and collaboration platform developed by Alibaba, used for team communication and management."&lt;SEP&gt;"钉钉 (DingTalk) is a communication and collaboration platform for businesses, developed by Alibaba, used for("entity"&lt;SEP&gt;"钉钉 (DingTalk) is a communication and collaboration platform, primarily used in China for business and organizational communication."&lt;SEP&gt;"钉钉 (DingTalk) is a communication and collaboration platform, primarily used in China for business and personal communications."&lt;SEP&gt;"钉钉 is a business communication and collaboration platform, commonly used in China for work-related tasks."&lt;SEP&gt;"钉钉 is a business communication and collaboration platform, often used for team communication and file sharing."&lt;SEP&gt;"钉钉 is a business communication and collaboration platform, often used in China for team communication and file sharing."&lt;SEP&gt;"钉钉 is a communication and collaboration platform primarily used by businesses and organizations in China."&lt;SEP&gt;"钉钉 is a popular Chinese business communication and collaboration platform, often used for work-related tasks and file sharing."&lt;SEP&gt;"钉钉是一款企业级通讯和协作平台，常用于企业内部沟通和文件共享。"</data>
+  <data key="d2">chunk-111e3a99ab3dfa37226d474cf683b165&lt;SEP&gt;chunk-2cbf3c15c8d390deeece4264e99ab2e4&lt;SEP&gt;chunk-b9456a78eb751575a168042b2bc43533&lt;SEP&gt;chunk-04325abd2b6cb1a9337f84f21191eef2&lt;SEP&gt;chunk-63ad3bc0685983f634f5d2491076bcac&lt;SEP&gt;chunk-d2159607b60e4c40504e9ad2ddb4027f&lt;SEP&gt;chunk-c1d7f39624d58e7a897faa20dab72060&lt;SEP&gt;chunk-ab43fa60c3f316e514d3f34e808777bb&lt;SEP&gt;chunk-cce7da72624787e362aa28d2acfaf5ec&lt;SEP&gt;chunk-402e3cd68d26a8644b8c512587a514f2&lt;SEP&gt;chunk-bdcbaa514e612579c09f028b28e6da65</data>
+  <data key="d3">[{"level": 0, "cluster": 4}]</data>
+</node>
+<node id="&quot;宝贝评价&quot;">
+  <data key="d0">"CONCEPT"</data>
+  <data key="d1">"宝贝评价 (Product Reviews) are comments and ratings left by customers about a product, providing feedback and insights for potential buyers."</data>
+  <data key="d2">chunk-cce7da72624787e362aa28d2acfaf5ec</data>
+</node>
+<node id="&quot;商品评价&quot;">
+  <data key="d0">"CONCEPT"</data>
+  <data key="d1">"商品评价 (Product Reviews) are customer feedback and ratings for a product, helping other shoppers make informed decisions."&lt;SEP&gt;"商品评价 is a section on the JD platform where users can read and write reviews for products."&lt;SEP&gt;"商品评价 refers to the reviews and ratings of products on JD.com, which users can read to make informed decisions."</data>
+  <data key="d2">chunk-2cbf3c15c8d390deeece4264e99ab2e4&lt;SEP&gt;chunk-bd3127c4903686f8bcef11a5c4acb5d3&lt;SEP&gt;chunk-cce7da72624787e362aa28d2acfaf5ec</data>
+</node>
+<node id="&quot;销量按钮&quot;">
+  <data key="d0">"CONCEPT"</data>
+  <data key="d1">"销量按钮 (Sales Button) is a button on JD.com that users can click to sort products by sales volume, typically to find the most popular or best-selling items."&lt;SEP&gt;"销量按钮 (Sales Button) is a feature on e-commerce platforms that allows users to sort products by their sales volume, helping to identify popular items."&lt;SEP&gt;"销量按钮 is a feature on the JD platform that allows users to sort products by sales volume."</data>
+  <data key="d2">chunk-63ad3bc0685983f634f5d2491076bcac&lt;SEP&gt;chunk-bd3127c4903686f8bcef11a5c4acb5d3&lt;SEP&gt;chunk-cce7da72624787e362aa28d2acfaf5ec</data>
+</node>
+<node id="&quot;价格按钮&quot;">
+  <data key="d0">"CONCEPT"</data>
+  <data key="d1">"价格按钮 (Price Button) is a button on JD.com that users can click to sort products by price, either from low to high or high to low."&lt;SEP&gt;"价格按钮 (Price Button) is a feature on e-commerce platforms that allows users to sort products by their price, helping to find the most affordable options."&lt;SEP&gt;"价格按钮 is a feature on the JD platform that allows users to sort products by price."&lt;SEP&gt;"价格按钮 is the button on the JD platform that allows users to sort products by price, typically from high to low or low to high."</data>
+  <data key="d2">chunk-63ad3bc0685983f634f5d2491076bcac&lt;SEP&gt;chunk-bd3127c4903686f8bcef11a5c4acb5d3&lt;SEP&gt;chunk-f788c884a129889a409d63653e8253fa&lt;SEP&gt;chunk-cce7da72624787e362aa28d2acfaf5ec</data>
+  <data key="d3">[{"level": 0, "cluster": 2}]</data>
+</node>
+<node id="&quot;下载数据&quot;">
+  <data key="d0">"CONCEPT"</data>
+  <data key="d1">"下载数据 (Download Data) is a feature that allows users to export data, such as product information or sales reports, to a file format like Excel or CSV."&lt;SEP&gt;"下载数据 refers to the action of downloading data from 京东商智商家版."</data>
+  <data key="d2">chunk-505e75bd34d1c89169f88913b15b44d2&lt;SEP&gt;chunk-cce7da72624787e362aa28d2acfaf5ec</data>
+</node>
+<node id="&quot;揽客&quot;">
+  <data key="d0">"CONCEPT"</data>
+  <data key="d1">"揽客 (Customer Attraction) is a feature on business platforms that helps merchants attract and retain customers through various marketing activities."</data>
+  <data key="d2">chunk-cce7da72624787e362aa28d2acfaf5ec</data>
+</node>
+<node id="&quot;发券活动&quot;">
+  <data key="d0">"CONCEPT"</data>
+  <data key="d1">"发券活动 (Coupon Distribution Event) is a marketing activity where businesses distribute coupons to customers to encourage purchases."</data>
+  <data key="d2">chunk-cce7da72624787e362aa28d2acfaf5ec</data>
+</node>
+<node id="&quot;商品概况&quot;">
+  <data key="d0">"CONCEPT"</data>
+  <data key="d1">"商品概况 (Product Overview) is a section on business platforms that provides detailed information about a product, including its performance and sales data."</data>
+  <data key="d2">chunk-cce7da72624787e362aa28d2acfaf5ec</data>
+</node>
+<node id="&quot;SKU&quot;">
+  <data key="d0">"CONCEPT"</data>
+  <data key="d1">"SKU (Stock Keeping Unit) is a unique identifier for a product, used in inventory management and sales tracking."</data>
+  <data key="d2">chunk-cce7da72624787e362aa28d2acfaf5ec</data>
+</node>
+<node id="&quot;环比&quot;">
+  <data key="d0">|CONCEPT"</data>
+  <data key="d1">"环比 (Year-over-Year or Month-over-Month) is a comparison of data from the current period to the same period in the previous year or month, used to analyze trends and performance."</data>
+  <data key="d2">chunk-cce7da72624787e362aa28d2acfaf5ec</data>
+</node>
+<node id="&quot;企业微信应用程序&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"企业微信应用程序 (WeChat Work Application) is the mobile app version of WeChat Work, used for business communication and collaboration."</data>
+  <data key="d2">chunk-cce7da72624787e362aa28d2acfaf5ec</data>
+</node>
+<node id="&quot;京东国际&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"京东国际 (JD International) is the international version of JD.com, allowing users to shop from a global selection of products."&lt;SEP&gt;"京东国际 is an international version of the JD.com e-commerce platform, offering a variety of products and services to users."&lt;SEP&gt;"京东国际 is the international version of JD, offering a broader range of products and services to a global audience."&lt;SEP&gt;"京东国际 is the international version of JD, offering products and services to customers outside of China."&lt;SEP&gt;"京东国际 is the international version of JD.com, designed to serve customers outside of China."&lt;SEP&gt;"京东国际 is the international version of the Chinese e-commerce platform, JD.com, allowing international users to shop and access services."&lt;SEP&gt;"京东国际 is the international version of the JD.com platform, offering a global shopping experience."&lt;SEP&gt;"京东国际 is the international version of 京东, offering products and services to customers outside of China."</data>
+  <data key="d2">chunk-505e75bd34d1c89169f88913b15b44d2&lt;SEP&gt;chunk-b9456a78eb751575a168042b2bc43533&lt;SEP&gt;chunk-04325abd2b6cb1a9337f84f21191eef2&lt;SEP&gt;chunk-63ad3bc0685983f634f5d2491076bcac&lt;SEP&gt;chunk-c1d7f39624d58e7a897faa20dab72060&lt;SEP&gt;chunk-bd3127c4903686f8bcef11a5c4acb5d3&lt;SEP&gt;chunk-402e3cd68d26a8644b8c512587a514f2&lt;SEP&gt;chunk-bdcbaa514e612579c09f028b28e6da65</data>
+  <data key="d3">[{"level": 0, "cluster": 3}]</data>
+</node>
+<node id="&quot;唯品会&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"唯品会 is a Chinese e-commerce platform specializing in discounted brand-name goods."&lt;SEP&gt;"唯品会 is a Chinese online discount shopping platform, known for offering deals on a wide range of products."</data>
+  <data key="d2">chunk-b9456a78eb751575a168042b2bc43533&lt;SEP&gt;chunk-c1d7f39624d58e7a897faa20dab72060</data>
+  <data key="d3">[{"level": 0, "cluster": 3}]</data>
+</node>
+<node id="&quot;我的订单&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"我的订单 is a section on JD.com where users can view and manage their order history, including pending and completed orders."&lt;SEP&gt;"我的订单 refers to the action of viewing all orders on the 京东 platform."&lt;SEP&gt;"我的订单 refers to the user's order history on JD, where they can view details of their past and current orders."&lt;SEP&gt;"我的订单 refers to the user's order history on the JD.com or Vipshop platforms, including pending and completed orders."</data>
+  <data key="d2">chunk-d2159607b60e4c40504e9ad2ddb4027f&lt;SEP&gt;chunk-505e75bd34d1c89169f88913b15b44d2&lt;SEP&gt;chunk-c1d7f39624d58e7a897faa20dab72060&lt;SEP&gt;chunk-d9e1d23a7dcfa43c2aa489e8aad5dfd7</data>
+</node>
+<node id="&quot;订单管理&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"订单管理 is the section on the Vipshop platform where users can manage their orders, including viewing and managing pending deliveries."</data>
+  <data key="d2">chunk-c1d7f39624d58e7a897faa20dab72060</data>
+</node>
+<node id="&quot;待收货&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"待收货 refers to the status of orders that are awaiting delivery, both on Vipshop and JD.com platforms."</data>
+  <data key="d2">chunk-c1d7f39624d58e7a897faa20dab72060</data>
+</node>
+<node id="&quot;流量概况&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"流量概况 is a feature within 京东商智商家版 that provides an overview of the traffic to a merchant's store on JD (京东)."&lt;SEP&gt;"流量概况 refers to the traffic overview on the JD.com Business Intelligence (商智商家版) platform, providing insights into website traffic and user engagement."</data>
+  <data key="d2">chunk-c1d7f39624d58e7a897faa20dab72060&lt;SEP&gt;chunk-f788c884a129889a409d63653e8253fa</data>
+  <data key="d3">[{"level": 0, "cluster": 0}]</data>
+</node>
+<node id="&quot;环比核心指标&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"环比核心指标 refers to the key metrics comparing the current period to the previous period, used to analyze trends in traffic or sales on the JD.com Business Intelligence platform."</data>
+  <data key="d2">chunk-c1d7f39624d58e7a897faa20dab72060</data>
+</node>
+<node id="&quot;实时榜单&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"实时榜单 refers to the real-time rankings on the JD.com Business Intelligence platform, which can include top-selling products or categories."</data>
+  <data key="d2">chunk-c1d7f39624d58e7a897faa20dab72060</data>
+</node>
+<node id="&quot;SPU数据下载&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"SPU数据下载 refers to the download of Single Product Unit (SPU) data from the JD.com Business Intelligence platform, which includes detailed information about product performance."</data>
+  <data key="d2">chunk-c1d7f39624d58e7a897faa20dab72060</data>
+</node>
+<node id="&quot;报表&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"报表 refers to the reports available on the JD.com Business Intelligence platform, which provide detailed analytics and insights for business users."</data>
+  <data key="d2">chunk-c1d7f39624d58e7a897faa20dab72060</data>
+</node>
+<node id="&quot;搜索商品&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"搜索商品 is the event of searching for products on 京东, which can include sorting by price, sales, or reviews."</data>
+  <data key="d2">chunk-402e3cd68d26a8644b8c512587a514f2</data>
+  <data key="d3">[{"level": 0, "cluster": 5}]</data>
+</node>
+<node id="&quot;登录账号&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"登录账号 is the event of logging into an account, specifically on 京东 or 京东国际."</data>
+  <data key="d2">chunk-402e3cd68d26a8644b8c512587a514f2</data>
+  <data key="d3">[{"level": 0, "cluster": 3}]</data>
+</node>
+<node id="&quot;保存文件&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"保存文件 is the event of saving files, such as product information or screenshots, to a specified location, like the desktop."</data>
+  <data key="d2">chunk-402e3cd68d26a8644b8c512587a514f2</data>
+  <data key="d3">[{"level": 0, "cluster": 5}]</data>
+</node>
+<node id="&quot;发送文件&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"发送文件 is the event of sending files, such as product information, to other users via 钉钉."</data>
+  <data key="d2">chunk-402e3cd68d26a8644b8c512587a514f2</data>
+  <data key="d3">[{"level": 0, "cluster": 4}]</data>
+</node>
+<node id="&quot;手表&quot;">
+  <data key="d0">"PRODUCT"</data>
+  <data key="d1">"手表 refers to watches, another common search item on 京东."</data>
+  <data key="d2">chunk-402e3cd68d26a8644b8c512587a514f2</data>
+</node>
+<node id="&quot;电脑&quot;">
+  <data key="d0">"PRODUCT"</data>
+  <data key="d1">"电脑 refers to a category of products on JD.com, typically referring to computers, including desktops and laptops."&lt;SEP&gt;"电脑 refers to computers, which can be searched for on 京东."</data>
+  <data key="d2">chunk-d2159607b60e4c40504e9ad2ddb4027f&lt;SEP&gt;chunk-402e3cd68d26a8644b8c512587a514f2</data>
+</node>
+<node id="&quot;电冰箱&quot;">
+  <data key="d0">"PRODUCT"</data>
+  <data key="d1">"电冰箱 refers to refrigerators, a household appliance that can be searched for on 京东."</data>
+  <data key="d2">chunk-402e3cd68d26a8644b8c512587a514f2</data>
+</node>
+<node id="&quot;评论最多的商品&quot;">
+  <data key="d0">"PRODUCT"</data>
+  <data key="d1">"评论最多的商品 refers to the product with the most reviews on 京东."</data>
+  <data key="d2">chunk-402e3cd68d26a8644b8c512587a514f2</data>
+</node>
+<node id="&quot;IPHONE14&quot;">
+  <data key="d0">"PRODUCT"</data>
+  <data key="d1">"iPhone14 is a specific model of a smartphone often searched for on 京东."</data>
+  <data key="d2">chunk-402e3cd68d26a8644b8c512587a514f2</data>
+</node>
+<node id="&quot;待收货订单&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"待收货订单 refers to the event of checking orders that are pending delivery on 京东国际."</data>
+  <data key="d2">chunk-402e3cd68d26a8644b8c512587a514f2</data>
+</node>
+<node id="&quot;京东金融账号&quot;">
+  <data key="d0">"ACCOUNT"</data>
+  <data key="d1">"京东金融账号 refers to the financial account on 京东, used for transactions and account management."</data>
+  <data key="d2">chunk-402e3cd68d26a8644b8c512587a514f2</data>
+</node>
+<node id="&quot;18709313452&quot;">
+  <data key="d0">"ACCOUNT_NUMBER"</data>
+  <data key="d1">"18709313452 is a phone number used to log into a 京东金融账号."</data>
+  <data key="d2">chunk-402e3cd68d26a8644b8c512587a514f2</data>
+</node>
+<node id="&quot;1610903301&quot;">
+  <data key="d0">"ACCOUNT_NUMBER"</data>
+  <data key="d1">"1610903301 is a QQ number used to log into 京东国际."</data>
+  <data key="d2">chunk-402e3cd68d26a8644b8c512587a514f2</data>
+</node>
+<node id="&quot;123456&quot;">
+  <data key="d0">"PASSWORD"</data>
+  <data key="d1">"123456 is a password used to log into 京东国际 with a QQ account."</data>
+  <data key="d2">chunk-402e3cd68d26a8644b8c512587a514f2</data>
+</node>
+<node id="&quot;13485733&quot;">
+  <data key="d0">"PASSWORD"</data>
+  <data key="d1">"13485733 is a password used to log into a 京东金融账号."</data>
+  <data key="d2">chunk-402e3cd68d26a8644b8c512587a514f2</data>
+</node>
+<node id="&quot;最贵的笔记本电脑&quot;">
+  <data key="d0">"PRODUCT"</data>
+  <data key="d1">"最贵的笔记本电脑 is the most expensive laptop available on JD.com."&lt;SEP&gt;"最贵的笔记本电脑 refers to the most expensive notebook computer available on JD.com, as a result of a search query."</data>
+  <data key="d2">chunk-04325abd2b6cb1a9337f84f21191eef2&lt;SEP&gt;chunk-c4fc401f0b2d00ff0d07c7f017dbe262</data>
+  <data key="d3">[{"level": 0, "cluster": 2}]</data>
+</node>
+<node id="&quot;详情页&quot;">
+  <data key="d0">"LOCATION"</data>
+  <data key="d1">"详情页 is the detailed product page on JD.com where users can find more information about a product, including its brand name, price, and other specifications."&lt;SEP&gt;"详情页 is the detailed product page on the JD platform, where users can find comprehensive information about a product, including its brand name."</data>
+  <data key="d2">chunk-c4fc401f0b2d00ff0d07c7f017dbe262&lt;SEP&gt;chunk-f788c884a129889a409d63653e8253fa</data>
+</node>
+<node id="&quot;品牌名&quot;">
+  <data key="d0">"CONCEPT"</data>
+  <data key="d1">"品牌名 (Brand Name) is the name of a product's brand, which users can retrieve from a product's detail page on JD.com."&lt;SEP&gt;"品牌名 refers to the name of the brand of a product, which is a key piece of information for consumers making purchasing decisions."</data>
+  <data key="d2">chunk-c4fc401f0b2d00ff0d07c7f017dbe262&lt;SEP&gt;chunk-63ad3bc0685983f634f5d2491076bcac</data>
+</node>
+<node id="&quot;最便宜的电视机&quot;">
+  <data key="d0">"PRODUCT"</data>
+  <data key="d1">"最便宜的电视机 refers to the least expensive television available on JD.com, as a result of a search query."</data>
+  <data key="d2">chunk-c4fc401f0b2d00ff0d07c7f017dbe262</data>
+</node>
+<node id="&quot;最便宜的笔记本电脑&quot;">
+  <data key="d0">"PRODUCT"</data>
+  <data key="d1">"最便宜的笔记本电脑 refers to the least expensive notebook computer available on JD.com, as a result of a search query."</data>
+  <data key="d2">chunk-c4fc401f0b2d00ff0d07c7f017dbe262</data>
+</node>
+<node id="&quot;商品参数&quot;">
+  <data key="d0">"CONCEPT"</data>
+  <data key="d1">"商品参数 refers to the specifications and details of a product, such as size, weight, and features, which are important for consumers to make informed decisions."</data>
+  <data key="d2">chunk-c4fc401f0b2d00ff0d07c7f017dbe262</data>
+</node>
+<node id="&quot;最畅销的商品&quot;">
+  <data key="d0">"PRODUCT"</data>
+  <data key="d1">"最畅销的商品 refers to the product with the highest sales volume on JD.com, as a result of a search query."</data>
+  <data key="d2">chunk-c4fc401f0b2d00ff0d07c7f017dbe262</data>
+</node>
+<node id="&quot;销量最高的笔记本&quot;">
+  <data key="d0">"PRODUCT"</data>
+  <data key="d1">"销量最高的笔记本 is the best-selling laptop on JD, which the user wants to search for."&lt;SEP&gt;"销量最高的笔记本 refers to the notebook computer with the highest sales volume on JD.com, as a result of a search query."</data>
+  <data key="d2">chunk-c4fc401f0b2d00ff0d07c7f017dbe262&lt;SEP&gt;chunk-d9e1d23a7dcfa43c2aa489e8aad5dfd7</data>
+</node>
+<node id="&quot;运动鞋&quot;">
+  <data key="d0">"PRODUCT"</data>
+  <data key="d1">"运动鞋 refers to a category of athletic footwear that is widely searched and purchased on JD.com."</data>
+  <data key="d2">chunk-c4fc401f0b2d00ff0d07c7f017dbe262</data>
+</node>
+<node id="&quot;最热门的笔记本电脑&quot;">
+  <data key="d0">"PRODUCT"</data>
+  <data key="d1">"最热门的笔记本电脑 refers to the most popular notebook computer on JD.com, as a result of a search query."</data>
+  <data key="d2">chunk-c4fc401f0b2d00ff0d07c7f017dbe262</data>
+</node>
+<node id="&quot; JD商智商家版 &quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"JD商智商家版 is a("entity"</data>
+  <data key="d2">chunk-c4fc401f0b2d00ff0d07c7f017dbe262</data>
+</node>
+<node id="&quot;评论数最大的手机&quot;">
+  <data key="d0">"PRODUCT"</data>
+  <data key="d1">"评论数最大的手机 refers to the mobile phone with the highest number of reviews on JD.com, as a result of a search query."</data>
+  <data key="d2">chunk-c4fc401f0b2d00ff0d07c7f017dbe262</data>
+</node>
+<node id="&quot;IPHONE&quot;">
+  <data key="d0">"PRODUCT"</data>
+  <data key="d1">"iPhone is a specific brand of mobile phone that is widely searched and purchased on JD.com."&lt;SEP&gt;"iPhone是用户在京东上搜索并抓取评论数量前20的商品链接的产品。"</data>
+  <data key="d2">chunk-427d5b4d1ceeb7f9eb8077a66a05b4ba&lt;SEP&gt;chunk-c4fc401f0b2d00ff0d07c7f017dbe262</data>
+  <data key="d3">[{"level": 0, "cluster": 2}]</data>
+</node>
+<node id="&quot;订单号123434&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"订单号123434 refers to a specific transaction order number on JD.com, used for tracking and managing orders."</data>
+  <data key="d2">chunk-c4fc401f0b2d00ff0d07c7f017dbe262</data>
+</node>
+<node id="&quot;QQ密码登录&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"QQ密码登录 refers to the process of logging into a service using a QQ account and password."</data>
+  <data key="d2">chunk-c4fc401f0b2d00ff0d07c7f017dbe262</data>
+</node>
+<node id="&quot;账号1263456&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"账号1263456 refers to a specific user account, possibly a QQ account, used for logging into services."</data>
+  <data key="d2">chunk-c4fc401f0b2d00ff0d07c7f017dbe262</data>
+</node>
+<node id="&quot;密码654321&quot;">
+  <data key="d0">"CONCEPT"</data>
+  <data key="d1">"密码654321 refers to a specific password used for logging into an account, in this case, the QQ account."</data>
+  <data key="d2">chunk-c4fc401f0b2d00ff0d07c7f017dbe262</data>
+</node>
+<node id="&quot;第二畅销的手机&quot;">
+  <data key="d0">"PRODUCT"</data>
+  <data key="d1">"第二畅销的手机 refers to the second highest-selling mobile phone on JD.com, as a result of a search query."</data>
+  <data key="d2">chunk-c4fc401f0b2d00ff0d07c7f017dbe262</data>
+</node>
+<node id="&quot;销量最高的运动鞋&quot;">
+  <data key="d0">"PRODUCT"</data>
+  <data key="d1">"销量最高的运动鞋 refers to the most popular and highest-selling pair of athletic shoes on JD.com, as a result of a search query."</data>
+  <data key="d2">chunk-c4fc401f0b2d00ff0d07c7f017dbe262</data>
+</node>
+<node id="&quot;自动化搜索&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"自动化搜索 refers to the process of using automated tools or scripts to search for and retrieve information on JD.com, often used for data collection and analysis."</data>
+  <data key="d2">chunk-c4fc401f0b2d00ff0d07c7f017dbe262</data>
+</node>
+<node id="&quot;高渐离&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"高渐离是钉钉上的一个用户，接收文件发送。"</data>
+  <data key="d2">chunk-111e3a99ab3dfa37226d474cf683b165</data>
+  <data key="d3">[{"level": 0, "cluster": 4}]</data>
+</node>
+<node id="&quot;拓海&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"拓海 is a contact on DingTalk who receives information from the user."&lt;SEP&gt;"拓海 is a contact on the DingTalk messaging app, to whom a message about the best-selling product is to be sent."&lt;SEP&gt;"拓海 is a contact on the user's钉钉, to whom a message with a product name from 京东 is sent."&lt;SEP&gt;"拓海 is a person who is part of a team and communicates through DingTalk."&lt;SEP&gt;"拓海是钉钉上的一个用户，接收文件发送。"</data>
+  <data key="d2">chunk-2cbf3c15c8d390deeece4264e99ab2e4&lt;SEP&gt;chunk-04325abd2b6cb1a9337f84f21191eef2&lt;SEP&gt;chunk-63ad3bc0685983f634f5d2491076bcac&lt;SEP&gt;chunk-111e3a99ab3dfa37226d474cf683b165&lt;SEP&gt;chunk-bdcbaa514e612579c09f028b28e6da65</data>
+  <data key="d3">[{"level": 0, "cluster": 4}]</data>
+</node>
+<node id="&quot;笔记本电脑搜索&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"笔记本电脑搜索是在京东网站上进行的搜索活动，目的是找到特定条件下的笔记本电脑。"</data>
+  <data key="d2">chunk-111e3a99ab3dfa37226d474cf683b165</data>
+  <data key="d3">[{"level": 0, "cluster": 2}]</data>
+</node>
+<node id="&quot;最畅销笔记本电脑记录&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"最畅销笔记本电脑记录是将京东上销量最高的笔记本电脑的商品名称保存到文件中的过程。"</data>
+  <data key="d2">chunk-111e3a99ab3dfa37226d474cf683b165</data>
+  <data key="d3">[{"level": 0, "cluster": 2}]</data>
+</node>
+<node id="&quot;最贵笔记本电脑记录&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"最贵笔记本电脑记录是将京东上价格最高的笔记本电脑的品牌名称保存到文件中的过程。"</data>
+  <data key="d2">chunk-111e3a99ab3dfa37226d474cf683b165</data>
+</node>
+<node id="&quot;京东国际退货申请&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"京东国际退货申请是在京东国际网站上申请退货的过程。"&lt;SEP&gt;"京东国际退货申请是在京东国际网站上进行退货申请的过程。"</data>
+  <data key="d2">chunk-111e3a99ab3dfa37226d474cf683b165</data>
+</node>
+<node id="&quot;价格区间笔记本电脑搜索&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"价格区间笔记本电脑搜索是在京东网站上搜索价格在5000-8000元之间的笔记本电脑的活动。"</data>
+  <data key="d2">chunk-111e3a99ab3dfa37226d474cf683b165</data>
+</node>
+<node id="&quot;345&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"345 is a password used for logging into JD.com."</data>
+  <data key="d2">chunk-111e3a99ab3dfa37226d474cf683b165</data>
+  <data key="d3">[{"level": 0, "cluster": 2}]</data>
+</node>
+<node id="&quot;1234567890&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"1234567890 is a password associated with the account 123456789 for 京东商智商家版."&lt;SEP&gt;"1234567890 is a password used for logging into JD Business Intelligence Merchant Edition."&lt;SEP&gt;"1234567890 is a username used for logging into JD Business Intelligence Merchant Edition."</data>
+  <data key="d2">chunk-505e75bd34d1c89169f88913b15b44d2&lt;SEP&gt;chunk-111e3a99ab3dfa37226d474cf683b165</data>
+</node>
+<node id="&quot;麦克风&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"麦克风搜索是在京东网站上搜索最贵的麦克风并获取其名称和链接的过程。"</data>
+  <data key="d2">chunk-111e3a99ab3dfa37226d474cf683b165</data>
+</node>
+<node id="&quot;手机搜索&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"手机搜索是在京东网站上搜索最贵的手机并打开其详情页的过程。"</data>
+  <data key="d2">chunk-111e3a99ab3dfa37226d474cf683b165</data>
+</node>
+<node id="&quot;京东商智商家版&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"京东商智商家版 is a business analytics tool provided by JD (京东) for merchants to analyze their store performance, including traffic data."&lt;SEP&gt;"京东商智商家版 is a business intelligence tool for merchants on JD.com, providing insights into market trends and competition."&lt;SEP&gt;"京东商智商家版 is a business intelligence tool provided by JD for merchants to analyze their product performance and market trends."&lt;SEP&gt;"京东商智商家版 is a business intelligence tool provided by JD for merchants to monitor and analyze their business performance."&lt;SEP&gt;"京东商智商家版 is a business intelligence tool provided by JD.com for merchants to analyze their sales and traffic data."&lt;SEP&gt;"京东商智商家版 is a business intelligence tool provided by JD.com, designed to help merchants analyze their performance and market trends."&lt;SEP&gt;"京东商智商家版 is a business management tool provided by JD for merchants to manage their transactions, products, and services."&lt;SEP&gt;"京东商智商家版 is a specialized version of JD.com's business intelligence tool designed for merchants, providing data and insights to help manage and optimize their online stores."&lt;SEP&gt;"京东商智商家版是京东提供的商家版数据分析工具，帮助商家分析店铺数据。"</data>
+  <data key="d2">chunk-f788c884a129889a409d63653e8253fa&lt;SEP&gt;chunk-b9456a78eb751575a168042b2bc43533&lt;SEP&gt;chunk-505e75bd34d1c89169f88913b15b44d2&lt;SEP&gt;chunk-04325abd2b6cb1a9337f84f21191eef2&lt;SEP&gt;chunk-d9e1d23a7dcfa43c2aa489e8aad5dfd7&lt;SEP&gt;chunk-d2159607b60e4c40504e9ad2ddb4027f&lt;SEP&gt;chunk-63ad3bc0685983f634f5d2491076bcac&lt;SEP&gt;chunk-bd3127c4903686f8bcef11a5c4acb5d3&lt;SEP&gt;chunk-111e3a99ab3dfa37226d474cf683b165</data>
+  <data key="d3">[{"level": 0, "cluster": 0}]</data>
+</node>
+<node id="&quot;流量来源查看&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"流量来源查看是在京东商智商家版中按周查看店铺流量来源的过程。"</data>
+  <data key="d2">chunk-111e3a99ab3dfa37226d474cf683b165</data>
+</node>
+<node id="&quot;价格最低笔记本电脑记录&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"价格最低笔记本电脑记录是在京东网站上搜索价格最低的笔记本电脑并获取其品牌名的过程。"</data>
+  <data key="d2">chunk-111e3a99ab3dfa37226d474cf683b165</data>
+</node>
+<node id="&quot;5000-8000元笔记本电脑搜索&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"5000-8000元笔记本电脑搜索是在京东网站上搜索价格在5000-8000元之间的笔记本电脑的过程。"</data>
+  <data key="d2">chunk-111e3a99ab3dfa37226d474cf683b165</data>
+</node>
+<node id="&quot;JD_BUYER@SHOP.COM&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"jd_buyer@shop.com is a user account used to log into the JD platform."</data>
+  <data key="d2">chunk-ab43fa60c3f316e514d3f34e808777bb</data>
+  <data key="d3">[{"level": 0, "cluster": 2}]</data>
+</node>
+<node id="&quot;TB_SELLER@MARKET.COM&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"tb_seller@market.com is a user account used to log into the Taobao platform."</data>
+  <data key="d2">chunk-ab43fa60c3f316e514d3f34e808777bb</data>
+</node>
+<node id="&quot;张三&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"张三 is a contact on the QQ messaging platform, who received a message about a cleared shopping cart."</data>
+  <data key="d2">chunk-ab43fa60c3f316e514d3f34e808777bb</data>
+  <data key="d3">[{"level": 0, "cluster": 2}]</data>
+</node>
+<node id="&quot;王五&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"王五 is a contact on the QQ messaging platform, who received a message about a deleted shopping cart item."</data>
+  <data key="d2">chunk-ab43fa60c3f316e514d3f34e808777bb</data>
+  <data key="d3">[{"level": 0, "cluster": 2}]</data>
+</node>
+<node id="&quot;雪村&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"雪村 is a contact on the DingTalk messaging platform, who received a message about a popular notebook computer."</data>
+  <data key="d2">chunk-ab43fa60c3f316e514d3f34e808777bb</data>
+  <data key="d3">[{"level": 0, "cluster": 2}]</data>
+</node>
+<node id="&quot;QQ&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"QQ is a popular Chinese instant messaging platform used for personal and business communication."&lt;SEP&gt;"QQ is a popular instant messaging platform in China, used for both personal and group communications."&lt;SEP&gt;"QQ is a social media and messaging platform owned by Tencent, which can be used for logging into JD accounts."</data>
+  <data key="d2">chunk-04325abd2b6cb1a9337f84f21191eef2&lt;SEP&gt;chunk-ab43fa60c3f316e514d3f34e808777bb&lt;SEP&gt;chunk-bd3127c4903686f8bcef11a5c4acb5d3</data>
+  <data key="d3">[{"level": 0, "cluster": 1}]</data>
+</node>
+<node id="&quot;京东商智版&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"京东商智版 (JD Merchant Intelligence Edition) is a business intelligence tool provided by JD for merchants to analyze their sales and customer data."</data>
+  <data key="d2">chunk-ab43fa60c3f316e514d3f34e808777bb</data>
+</node>
+<node id="&quot;搜索框&quot;">
+  <data key="d0">"CONCEPT"</data>
+  <data key="d1">"搜索框 (Search Box) is a user interface element on various platforms, including JD and QQ, used to search for items, contacts, or information."&lt;SEP&gt;"搜索框 (Search Box) is an input field on JD.com where users can enter keywords to search for products."&lt;SEP&gt;"搜索框 is the search bar on the JD platform where users can input search queries."</data>
+  <data key="d2">chunk-ab43fa60c3f316e514d3f34e808777bb&lt;SEP&gt;chunk-f788c884a129889a409d63653e8253fa&lt;SEP&gt;chunk-63ad3bc0685983f634f5d2491076bcac</data>
+</node>
+<node id="&quot;搜索按钮&quot;">
+  <data key="d0">"CONCEPT"</data>
+  <data key="d1">"搜索按钮 (Search Button) is a button on JD.com that users click to initiate a search after entering keywords in the search box."&lt;SEP&gt;"搜索按钮 (Search Button) is a user interface element used to initiate a search after entering a query in the search box."&lt;SEP&gt;"搜索按钮 is the search button on the JD platform that users click to initiate a search based on their input."</data>
+  <data key="d2">chunk-ab43fa60c3f316e514d3f34e808777bb&lt;SEP&gt;chunk-f788c884a129889a409d63653e8253fa&lt;SEP&gt;chunk-63ad3bc0685983f634f5d2491076bcac</data>
+</node>
+<node id="&quot;我的购物车&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"我的购物车 (My Shopping Cart) is a feature on the JD platform where users can add and manage items they intend to purchase."&lt;SEP&gt;"我的购物车 is the section on JD where users can add items they wish to purchase and review before finalizing the purchase."&lt;SEP&gt;"我的购物车 refers to the action of accessing the shopping cart on the 京东 platform."</data>
+  <data key="d2">chunk-505e75bd34d1c89169f88913b15b44d2&lt;SEP&gt;chunk-ab43fa60c3f316e514d3f34e808777bb&lt;SEP&gt;chunk-d9e1d23a7dcfa43c2aa489e8aad5dfd7</data>
+</node>
+<node id="&quot;订单明细&quot;">
+  <data key="d0">"CONCEPT"</data>
+  <data key="d1">"订单明细 (Order Details) is a section in the JD Merchant Intelligence Business Edition where merchants can view detailed information about specific transactions."</data>
+  <data key="d2">chunk-ab43fa60c3f316e514d3f34e808777bb</data>
+</node>
+<node id="&quot;流量&quot;">
+  <data key="d0">"CONCEPT"</data>
+  <data key="d1">"流量 (Traffic) is a metric in the JD Merchant Intelligence tool that measures the number of visitors to a merchant's store or product page."&lt;SEP&gt;"流量 refers to the amount of traffic or visitors to a merchant's store on the JD platform, which can be analyzed using 京东商智商家版."</data>
+  <data key="d2">chunk-ab43fa60c3f316e514d3f34e808777bb&lt;SEP&gt;chunk-f788c884a129889a409d63653e8253fa</data>
+</node>
+<node id="&quot;访客分析&quot;">
+  <data key="d0">|&gt;"CONCEPT"</data>
+  <data key="d1">"访客分析 (Visitor Analysis) is a feature in the JD Merchant Intelligence tool that provides insights into the behavior and characteristics of visitors to a merchant's store."</data>
+  <data key="d2">chunk-ab43fa60c3f316e514d3f34e808777bb</data>
+</node>
+<node id="&quot;交易&quot;">
+  <data key="d0">"CONCEPT"</data>
+  <data key="d1">"交易 (Transactions) is a section in the JD Merchant Intelligence Business Edition where merchants can view and manage their sales transactions."</data>
+  <data key="d2">chunk-ab43fa60c3f316e514d3f34e808777bb</data>
+</node>
+<node id="&quot;对话框&quot;">
+  <data key="d0">"CONCEPT"</data>
+  <data key="d1">"对话框 (Chat Box) is a user interface element in messaging platforms like QQ and DingTalk where users can type and send messages to contacts."</data>
+  <data key="d2">chunk-ab43fa60c3f316e514d3f34e808777bb</data>
+</node>
+<node id="&quot;发送按钮&quot;">
+  <data key="d0">"CONCEPT"</data>
+  <data key="d1">"发送按钮 (Send Button) is a user interface element in messaging platforms like QQ and DingTalk used to send messages."</data>
+  <data key="d2">chunk-ab43fa60c3f316e514d3f34e808777bb</data>
+</node>
+<node id="&quot;品牌详情&quot;">
+  <data key="d0">"CONCEPT"</data>
+  <data key="d1">"品牌详情 (Brand Details) is a section in the JD Merchant Intelligence tool where merchants can view detailed information about specific brands."</data>
+  <data key="d2">chunk-ab43fa60c3f316e514d3f34e808777bb</data>
+</node>
+<node id="&quot;密码登录&quot;">
+  <data key="d0">"CONCEPT"</data>
+  <data key="d1">"密码登录 (Password Login) is a method of authentication used to access user accounts on platforms like JD and Taobao."</data>
+  <data key="d2">chunk-ab43fa60c3f316e514d3f34e808777bb</data>
+</node>
+<node id="&quot;农夫山泉&quot;">
+  <data key="d0">"PRODUCT"</data>
+  <data key="d1">"农夫山泉 is a brand of bottled water products available on the JD platform."</data>
+  <data key="d2">chunk-bd3127c4903686f8bcef11a5c4acb5d3</data>
+  <data key="d3">[{"level": 0, "cluster": 0}]</data>
+</node>
+<node id="&quot;小红&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"小红 is a contact in the user's WhatsApp list, to whom the user intends to send a screenshot."&lt;SEP&gt;"小红 is a contact on the user's微信(WeChat) contact list, to whom a message is sent."</data>
+  <data key="d2">chunk-b9456a78eb751575a168042b2bc43533&lt;SEP&gt;chunk-bd3127c4903686f8bcef11a5c4acb5d3</data>
+</node>
+<node id="&quot;评论数按钮&quot;">
+  <data key="d0">"FEATURE"</data>
+  <data key="d1">"评论数按钮 is a feature on the JD platform that allows users to sort products by the number of comments."</data>
+  <data key="d2">chunk-bd3127c4903686f8bcef11a5c4acb5d3</data>
+  <data key="d3">[{"level": 0, "cluster": 2}]</data>
+</node>
+<node id="&quot;折扣排序按钮&quot;">
+  <data key="d0">"FEATURE"</data>
+  <data key="d1">"折扣排序按钮 is a feature on the JD platform that allows users to sort products by discount."</data>
+  <data key="d2">chunk-bd3127c4903686f8bcef11a5c4acb5d3</data>
+</node>
+<node id="&quot;我的京东国际&quot;">
+  <data key="d0">"FEATURE"</data>
+  <data key="d1">"我的京东国际 is a section on the JD International platform where users can manage their personal information and preferences."&lt;SEP&gt;"我的京东国际 refers to the action of accessing the user's account on 京东国际."</data>
+  <data key="d2">chunk-505e75bd34d1c89169f88913b15b44d2&lt;SEP&gt;chunk-bd3127c4903686f8bcef11a5c4acb5d3</data>
+</node>
+<node id="&quot;收货地址&quot;">
+  <data key="d0">"FEATURE"</data>
+  <data key="d1">"收货地址 is a feature on the JD platform that allows users to manage their shipping addresses."</data>
+  <data key="d2">chunk-bd3127c4903686f8bcef11a5c4acb5d3</data>
+</node>
+<node id="&quot;你好，请登录&quot;">
+  <data key="d0">"FEATURE"</data>
+  <data key="d1">"你好，请登录 is the login prompt on the JD platform, guiding users to log in to their accounts."</data>
+  <data key="d2">chunk-bd3127c4903686f8bcef11a5c4acb5d3</data>
+</node>
+<node id="&quot;象印&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"象印 is a Japanese brand known for its high-quality household goods, particularly thermoses and kitchen appliances."</data>
+  <data key="d2">chunk-d9e1d23a7dcfa43c2aa489e8aad5dfd7</data>
+</node>
+<node id="&quot;DINGTALK&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"DingTalk is a communication and collaboration platform developed by Alibaba, used for business communication and file sharing."&lt;SEP&gt;"DingTalk is a communication and collaboration platform primarily used by businesses in China."</data>
+  <data key="d2">chunk-505e75bd34d1c89169f88913b15b44d2&lt;SEP&gt;chunk-d9e1d23a7dcfa43c2aa489e8aad5dfd7</data>
+  <data key="d3">[{"level": 0, "cluster": 2}]</data>
+</node>
+<node id="&quot;EXCEL&quot;">
+  <data key="d0">"TECHNOLOGY"</data>
+  <data key="d1">"Excel is a spreadsheet application used for organizing, analyzing, and storing data in a tabular format."</data>
+  <data key="d2">chunk-d9e1d23a7dcfa43c2aa489e8aad5dfd7</data>
+</node>
+<node id="&quot;冰箱&quot;">
+  <data key="d0">"PRODUCT"</data>
+  <data key="d1">"冰箱 is a household appliance used for storing food and keeping it cool, often searched for on e-commerce platforms."&lt;SEP&gt;"冰箱 refers to refrigerators, which can be searched and sorted by reviews on JD.com."</data>
+  <data key="d2">chunk-04325abd2b6cb1a9337f84f21191eef2&lt;SEP&gt;chunk-d9e1d23a7dcfa43c2aa489e8aad5dfd7</data>
+</node>
+<node id="&quot;IPHONE15&quot;">
+  <data key="d0">"PRODUCT"</data>
+  <data key="d1">"iPhone15 is a model of smartphone manufactured by Apple, frequently searched for on e-commerce platforms like JD."</data>
+  <data key="d2">chunk-d9e1d23a7dcfa43c2aa489e8aad5dfd7</data>
+</node>
+<node id="&quot;象印保温杯&quot;">
+  <data key="d0">"PRODUCT"</data>
+  <data key="d1">"象印保温杯 is a product that can be searched for on JD.com."&lt;SEP&gt;"象印保温杯 is a specific product from the brand Zojirushi, known for its quality and reliability in maintaining the temperature of beverages."&lt;SEP&gt;"象印保温杯 is a specific product that can be searched for on JD.com, indicating a user's interest in this particular item."&lt;SEP&gt;"象印保温杯是用户在京东上搜索并保存商品链接和价格的产品。"</data>
+  <data key="d2">chunk-2cbf3c15c8d390deeece4264e99ab2e4&lt;SEP&gt;chunk-04325abd2b6cb1a9337f84f21191eef2&lt;SEP&gt;chunk-427d5b4d1ceeb7f9eb8077a66a05b4ba&lt;SEP&gt;chunk-d9e1d23a7dcfa43c2aa489e8aad5dfd7</data>
+  <data key="d3">[{"level": 0, "cluster": 2}]</data>
+</node>
+<node id="&quot;销量前10的手机&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"销量前10的手机 refers to the top 10 best-selling mobile phones on JD, which the user wants to record in an Excel file."</data>
+  <data key="d2">chunk-d9e1d23a7dcfa43c2aa489e8aad5dfd7</data>
+</node>
+<node id="&quot;商品环比SPU商品概况&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"商品环比SPU商品概况 is a feature in 京东商智商家版 that provides a comparative analysis of product performance over time."</data>
+  <data key="d2">chunk-d9e1d23a7dcfa43c2aa489e8aad5dfd7</data>
+</node>
+<node id="&quot;销量最高的品牌名&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"销量最高的品牌名 is the brand of the best-selling phone on JD, which the user wants to identify."</data>
+  <data key="d2">chunk-d9e1d23a7dcfa43c2aa489e8aad5dfd7</data>
+</node>
+<node id="&quot;最近一笔待收货订单的物流详情&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"最近一笔待收货订单的物流详情 refers to the logistics information of the user's most recent order that is pending delivery."</data>
+  <data key="d2">chunk-d9e1d23a7dcfa43c2aa489e8aad5dfd7</data>
+</node>
+<node id="&quot;前20个商品的名称、价格和评价&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"前20个商品的名称、价格和评价 refers to the details of the top 20 search results for '电脑' on JD, which the user wants to record in an Excel file."</data>
+  <data key="d2">chunk-d9e1d23a7dcfa43c2aa489e8aad5dfd7</data>
+</node>
+<node id="&quot;最畅销的冰箱&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"最畅销的冰箱 is the best-selling refrigerator on JD, whose information the user wants to share via DingTalk."</data>
+  <data key="d2">chunk-d9e1d23a7dcfa43c2aa489e8aad5dfd7</data>
+</node>
+<node id="&quot;第一个商品链接&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"第一个商品链接 is the link to the first item in a search result, which the user wants to click to get more information."</data>
+  <data key="d2">chunk-d9e1d23a7dcfa43c2aa489e8aad5dfd7</data>
+</node>
+<node id="&quot;牙刷&quot;">
+  <data key="d0">"PRODUCT"</data>
+  <data key="d1">"牙刷是用户在京东上搜索销量最高的商品。"</data>
+  <data key="d2">chunk-427d5b4d1ceeb7f9eb8077a66a05b4ba</data>
+  <data key="d3">[{"level": 0, "cluster": 2}]</data>
+</node>
+<node id="&quot;市场部群&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"市场部群是微信上用于内部沟通的群组，用于接收商品信息。"</data>
+  <data key="d2">chunk-427d5b4d1ceeb7f9eb8077a66a05b4ba</data>
+</node>
+<node id="&quot;毛衣&quot;">
+  <data key="d0">"PRODUCT"</data>
+  <data key="d1">"毛衣是用户在京东上按销量排序搜索的商品。"</data>
+  <data key="d2">chunk-427d5b4d1ceeb7f9eb8077a66a05b4ba</data>
+</node>
+<node id="&quot;返利网&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"返利网是一个提供购物返现的平台，用户可以通过它访问京东的精选好价商品。"</data>
+  <data key="d2">chunk-427d5b4d1ceeb7f9eb8077a66a05b4ba</data>
+</node>
+<node id="&quot;123&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"123 is an account name used for logging into 京东."&lt;SEP&gt;"123是登录京东的账号名。"</data>
+  <data key="d2">chunk-505e75bd34d1c89169f88913b15b44d2&lt;SEP&gt;chunk-427d5b4d1ceeb7f9eb8077a66a05b4ba</data>
+  <data key="d3">[{"level": 0, "cluster": 2}]</data>
+</node>
+<node id="&quot;234&quot;">
+  <data key="d0">"PASSWORD"</data>
+  <data key="d1">"234是登录京东的密码。"</data>
+  <data key="d2">chunk-427d5b4d1ceeb7f9eb8077a66a05b4ba</data>
+</node>
+<node id="&quot;微信&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"微信 (WeChat) is a popular Chinese multi-purpose messaging, social media, and mobile payment app."&lt;SEP&gt;"微信 (WeChat) is a popular messaging and social media platform in China, used for personal and business communications."&lt;SEP&gt;"微信是一款流行的即时通讯应用，用户可以通过它发送商品信息。"</data>
+  <data key="d2">chunk-2cbf3c15c8d390deeece4264e99ab2e4&lt;SEP&gt;chunk-b9456a78eb751575a168042b2bc43533&lt;SEP&gt;chunk-427d5b4d1ceeb7f9eb8077a66a05b4ba</data>
+</node>
+<node id="&quot;待收货/使用&quot;">
+  <data key="d0">"STATUS"</data>
+  <data key="d1">"待收货/使用 is a section under ‘我的订单’ where users can view orders that are still in transit or pending delivery."&lt;SEP&gt;"待收货/使用是指在京东订单状态中，用户等待收货或使用商品的状态。"</data>
+  <data key="d2">chunk-d2159607b60e4c40504e9ad2ddb4027f&lt;SEP&gt;chunk-427d5b4d1ceeb7f9eb8077a66a05b4ba</data>
+  <data key="d3">[{"level": 0, "cluster": 2}]</data>
+</node>
+<node id="&quot;查看物流&quot;">
+  <data key="d0">"FUNCTION"</data>
+  <data key="d1">"查看物流是京东订单详情中的一项功能，用户可以查询最新的物流信息。"</data>
+  <data key="d2">chunk-427d5b4d1ceeb7f9eb8077a66a05b4ba</data>
+  <data key="d3">[{"level": 0, "cluster": 2}]</data>
+</node>
+<node id="&quot;最贵的笔记本电脑的商品名称及售价&quot;">
+  <data key="d0">"DATA"</data>
+  <data key="d1">"这是用户在京东上搜索最贵的笔记本电脑后获取的信息，包括商品名称和售价。"</data>
+  <data key="d2">chunk-427d5b4d1ceeb7f9eb8077a66a05b4ba</data>
+</node>
+<node id="&quot;桌面&quot;">
+  <data key="d0">"LOCATION"</data>
+  <data key="d1">"桌面是指计算机操作系统中的主文件夹，用户可以在此保存文件。"</data>
+  <data key="d2">chunk-427d5b4d1ceeb7f9eb8077a66a05b4ba</data>
+</node>
+<node id="&quot;京东精选好价商品&quot;">
+  <data key="d0">"PRODUCT"</data>
+  <data key="d1">"京东精选好价商品是指通过返利网查看的京东平台上的优惠商品。"</data>
+  <data key="d2">chunk-427d5b4d1ceeb7f9eb8077a66a05b4ba</data>
+</node>
+<node id="&quot;登录京东网&quot;">
+  <data key="d0">"ACTION"</data>
+  <data key="d1">"登录京东网是指用户通过账号和密码访问京东网站的过程。"</data>
+  <data key="d2">chunk-427d5b4d1ceeb7f9eb8077a66a05b4ba</data>
+</node>
+<node id="&quot;价格最低的十款手机&quot;">
+  <data key="d0">"PRODUCT"</data>
+  <data key="d1">"价格最低的十款手机是用户在京东上搜索并获取信息的产品。"</data>
+  <data key="d2">chunk-427d5b4d1ceeb7f9eb8077a66a05b4ba</data>
+</node>
+<node id="&quot;第二价格高的手机&quot;">
+  <data key="d0">"PRODUCT"</data>
+  <data key="d1">"第二价格高的手机是用户在京东上搜索并获取商品名称和价格的产品。"</data>
+  <data key="d2">chunk-427d5b4d1ceeb7f9eb8077a66a05b4ba</data>
+</node>
+<node id="&quot;销量前20的笔记本电脑商品详情&quot;">
+  <data key="d0">"DATA"</data>
+  <data key="d1">"销量前20的笔记本电脑商品详情是用户在京东上获取的信息，包括店铺和商品信息。"</data>
+  <data key="d2">chunk-427d5b4d1ceeb7f9eb8077a66a05b4ba</data>
+</node>
+<node id="&quot;索隆&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"索隆 is a contact on DingTalk, likely a colleague or friend who receives information about products from JD.com."</data>
+  <data key="d2">chunk-d2159607b60e4c40504e9ad2ddb4027f</data>
+  <data key="d3">[{"level": 0, "cluster": 2}]</data>
+</node>
+<node id="&quot;23&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"23 is a user account on JD.com, used for logging into the platform to access personal information and services."</data>
+  <data key="d2">chunk-d2159607b60e4c40504e9ad2ddb4027f</data>
+  <data key="d3">[{"level": 0, "cluster": 2}]</data>
+</node>
+<node id="&quot;123456789&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"123456789 is a user account on JD.com's business intelligence platform, used for logging into the platform to access business analytics and insights."&lt;SEP&gt;"123456789 is an account name used for logging into 京东商智商家版 and 京东商智品牌版."</data>
+  <data key="d2">chunk-d2159607b60e4c40504e9ad2ddb4027f&lt;SEP&gt;chunk-505e75bd34d1c89169f88913b15b44d2</data>
+  <data key="d3">[{"level": 0, "cluster": 0}]</data>
+</node>
+<node id="&quot;我的京东&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"我的京东 is a section of the JD.com website where users can manage their personal accounts, including order history, addresses, and customer service requests."</data>
+  <data key="d2">chunk-d2159607b60e4c40504e9ad2ddb4027f</data>
+</node>
+<node id="&quot;返修退换货&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"返修退换货 is a service on JD.com where users can request returns or repairs for products they have purchased."</data>
+  <data key="d2">chunk-d2159607b60e4c40504e9ad2ddb4027f</data>
+</node>
+<node id="&quot;返修/退换货记录&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"返修/退换货记录 is a section under ‘返修退换货’ where users can view the history of their return or repair requests."</data>
+  <data key="d2">chunk-d2159607b60e4c40504e9ad2ddb4027f</data>
+</node>
+<node id="&quot;竞争&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"竞争 is a feature on 京东商智商家版 that allows merchants to analyze their competitive position in the market."</data>
+  <data key="d2">chunk-d2159607b60e4c40504e9ad2ddb4027f</data>
+</node>
+<node id="&quot;竞店对比&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"竞店对比 is a specific tool under ‘竞争’ that enables merchants to compare their performance with competitors."</data>
+  <data key="d2">chunk-d2159607b60e4c40504e9ad2ddb4027f</data>
+</node>
+<node id="&quot;笔记本&quot;">
+  <data key="d0">"PRODUCT"</data>
+  <data key="d1">"笔记本 refers to a category of products on JD.com, typically referring to laptops or notebooks."</data>
+  <data key="d2">chunk-d2159607b60e4c40504e9ad2ddb4027f</data>
+</node>
+<node id="&quot;收货地址管理&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"收货地址管理 is a feature on JD.com where users can manage their delivery addresses for orders."</data>
+  <data key="d2">chunk-d2159607b60e4c40504e9ad2ddb4027f</data>
+</node>
+<node id="&quot;12345678&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"12345678 is a password associated with the account 123456789 for 京东商智品牌版."</data>
+  <data key="d2">chunk-505e75bd34d1c89169f88913b15b44d2</data>
+</node>
+<node id="&quot;456&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"456 is a password associated with the account 123 for 京东."</data>
+  <data key="d2">chunk-505e75bd34d1c89169f88913b15b44d2</data>
+</node>
+<node id="&quot;退货记录&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"退货记录 refers to the action of viewing return records on 京东国际."</data>
+  <data key="d2">chunk-505e75bd34d1c89169f88913b15b44d2</data>
+</node>
+<node id="&quot;实时概况&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"实时概况 refers to the action of viewing real-time business performance data on 京东商智商家版."</data>
+  <data key="d2">chunk-505e75bd34d1c89169f88913b15b44d2</data>
+</node>
+<node id="&quot;实时&quot;">
+  <data key="d0">"CONCEPT"</data>
+  <data key="d1">"实时 refers to real-time data and updates, often used in the context of business intelligence and performance monitoring."</data>
+  <data key="d2">chunk-505e75bd34d1c89169f88913b15b44d2</data>
+</node>
+<node id="&quot;分小时下载&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"分小时下载 refers to the action of downloading data segmented by hour on 京东商智商家版."</data>
+  <data key="d2">chunk-505e75bd34d1c89169f88913b15b44d2</data>
+</node>
+<node id="&quot;企业微信&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"企业微信 (WeChat Work) is a business communication and collaboration tool developed by Tencent, designed for team communication and file sharing."</data>
+  <data key="d2">chunk-63ad3bc0685983f634f5d2491076bcac</data>
+</node>
+<node id="&quot;IE浏览器&quot;">
+  <data key="d0">"TECHNOLOGY"</data>
+  <data key="d1">"IE浏览器 (Internet Explorer) is a web browser developed by Microsoft, used to access and navigate the internet, including JD.com."</data>
+  <data key="d2">chunk-63ad3bc0685983f634f5d2491076bcac</data>
+</node>
+<node id="&quot;登录&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"登录 (Login) is the process of accessing a user account on JD.com by providing credentials such as a username and password."</data>
+  <data key="d2">chunk-63ad3bc0685983f634f5d2491076bcac</data>
+</node>
+<node id="&quot;商品链接&quot;">
+  <data key="d0">"TECHNOLOGY"</data>
+  <data key="d1">"商品链接 (Product Link) is a clickable link on JD.com that directs users to a product's detail page, where they can view more information about the product."&lt;SEP&gt;"商品链接 is the link to a product's detail page on the JD platform, which users can click to view more information about a product."</data>
+  <data key="d2">chunk-f788c884a129889a409d63653e8253fa&lt;SEP&gt;chunk-63ad3bc0685983f634f5d2491076bcac</data>
+</node>
+<node id="&quot;商品名称&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"商品名称 (Product Name) is the name of a product on JD.com, which users can retrieve and share with others, such as in messages."</data>
+  <data key="d2">chunk-63ad3bc0685983f634f5d2491076bcac</data>
+</node>
+<node id="&quot;日志&quot;">
+  <data key="d0">"TECHNOLOGY"</data>
+  <data key="d1">"日志 (Log) is a file or system where information such as product names can be recorded and stored for future reference or analysis."</data>
+  <data key="d2">chunk-63ad3bc0685983f634f5d2491076bcac</data>
+</node>
+<node id="&quot;账户设置&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"账户设置 (Account Settings</data>
+  <data key="d2">chunk-63ad3bc0685983f634f5d2491076bcac</data>
+</node>
+<node id="&quot;小明&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"小明 is a contact on the WeChat messaging app, to whom a screenshot of product reviews is to be sent."</data>
+  <data key="d2">chunk-2cbf3c15c8d390deeece4264e99ab2e4</data>
+  <data key="d3">[{"level": 0, "cluster": 2}]</data>
+</node>
+<node id="&quot;李宁&quot;">
+  <data key="d0">"PRODUCT"</data>
+  <data key="d1">"李宁 is a brand name that can be searched for on JD.com, known for sports apparel and accessories."</data>
+  <data key="d2">chunk-2cbf3c15c8d390deeece4264e99ab2e4</data>
+  <data key="d3">[{"level": 0, "cluster": 2}]</data>
+</node>
+<node id="&quot;帆布包&quot;">
+  <data key="d0">"PRODUCT"</data>
+  <data key="d1">"帆布包 is a product category that can be searched for on JD.com, indicating a user's interest in canvas bags."</data>
+  <data key="d2">chunk-2cbf3c15c8d390deeece4264e99ab2e4</data>
+</node>
+<node id="&quot;商品详情&quot;">
+  <data key="d0">"CONCEPT"</data>
+  <data key="d1">"商品详情 refers to the detailed information about a product, including shop, product name, price, and sales volume, which can be obtained on JD.com."</data>
+  <data key="d2">chunk-2cbf3c15c8d390deeece4264e99ab2e4</data>
+</node>
+<node id="&quot;EXCEL文件&quot;">
+  <data key="d0">"CONCEPT"</data>
+  <data key="d1">"Excel文件 is a file format used for storing tabular data, often used for organizing and analyzing product information."</data>
+  <data key="d2">chunk-2cbf3c15c8d390deeece4264e99ab2e4</data>
+</node>
+<node id="&quot;差评&quot;">
+  <data key="d0">"CONCEPT"</data>
+  <data key="d1">"差评 refers to negative reviews of a product, which users can read to understand potential issues with the product."</data>
+  <data key="d2">chunk-2cbf3c15c8d390deeece4264e99ab2e4</data>
+</node>
+<node id="&quot;销量最高李宁&quot;">
+  <data key="d0">"PRODUCT"</data>
+  <data key="d1">"销量最高李宁 refers to the best-selling products from the Li-Ning brand on JD.com, indicating a user's interest in popular Li-Ning items."</data>
+  <data key="d2">chunk-2cbf3c15c8d390deeece4264e99ab2e4</data>
+</node>
+<node id="&quot;销售量前20的笔记本电脑&quot;">
+  <data key="d0">"PRODUCT"</data>
+  <data key="d1">"销售量前20的笔记本电脑 refers to the top 20 best-selling laptops on JD.com, indicating a user's interest in popular laptop models."</data>
+  <data key="d2">chunk-2cbf3c15c8d390deeece4264e99ab2e4</data>
+</node>
+<node id="&quot;家庭群&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"家庭群 is a QQ group chat for family members."</data>
+  <data key="d2">chunk-04325abd2b6cb1a9337f84f21191eef2</data>
+  <data key="d3">[{"level": 0, "cluster": 1}]</data>
+</node>
+<node id="&quot;用户&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"用户 is the individual who provides input and instructions for tasks involving various platforms."</data>
+  <data key="d2">chunk-04325abd2b6cb1a9337f84f21191eef2</data>
+  <data key="d3">[{"level": 0, "cluster": 3}]</data>
+</node>
+<node id="&quot;竞争竞品概况&quot;">
+  <data key="d0">"REPORT"</data>
+  <data key="d1">"竞争竞品概况 is a report available in 京东商智商家版, providing insights into competitors and their products."</data>
+  <data key="d2">chunk-04325abd2b6cb1a9337f84f21191eef2</data>
+</node>
+<node id="&quot;待收货的订单&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"待收货的订单 refers to the status of orders that are awaiting delivery or use on JD.com."</data>
+  <data key="d2">chunk-04325abd2b6cb1a9337f84f21191eef2</data>
+</node>
+<node id="&quot;短信登录&quot;">
+  <data key="d0">"PROCESS"</data>
+  <data key="d1">"短信登录 is the process of logging into an account using a mobile phone number and a verification code sent via SMS."</data>
+  <data key="d2">chunk-04325abd2b6cb1a9337f84f21191eef2</data>
+</node>
+<node id="&quot;销量前20的笔记本电脑&quot;">
+  <data key="d0">"PRODUCT"</data>
+  <data key="d1">"销量前20的笔记本电脑 refers to the top 20 best-selling laptops on JD.com."</data>
+  <data key="d2">chunk-04325abd2b6cb1a9337f84f21191eef2</data>
+</node>
+<node id="&quot;评论最多的手机&quot;">
+  <data key="d0">"PRODUCT"</data>
+  <data key="d1">"评论最多的手机 refers to the mobile phone with the highest number of reviews on JD.com."</data>
+  <data key="d2">chunk-04325abd2b6cb1a9337f84f21191eef2</data>
+</node>
+<node id="&quot;返修退换货记录&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"返修退换货记录 refers to the history of returns, repairs, and exchanges on JD.com."</data>
+  <data key="d2">chunk-04325abd2b6cb1a9337f84f21191eef2</data>
+</node>
+<node id="&quot;折扣最大的笔记本电脑&quot;">
+  <data key="d0">"PRODUCT"</data>
+  <data key="d1">"折扣最大的笔记本电脑 refers to the laptop with the highest discount on JD.com."</data>
+  <data key="d2">chunk-04325abd2b6cb1a9337f84f21191eef2</data>
+</node>
+<node id="&quot;最畅销的电视机&quot;">
+  <data key="d0">"PRODUCT"</data>
+  <data key="d1">"最畅销的电视机 refers to the best-selling television on JD.com."</data>
+  <data key="d2">chunk-04325abd2b6cb1a9337f84f21191eef2</data>
+</node>
+<node id="&quot;查询最畅销电视机&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"查询最畅销电视机 is an event where a user searches for the most popular television on 京东 and sends the product name to a contact on钉钉."</data>
+  <data key="d2">chunk-bdcbaa514e612579c09f028b28e6da65</data>
+  <data key="d3">[{"level": 0, "cluster": 2}]</data>
+</node>
+<node id="&quot;查询最贵笔记本电脑&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"查询最贵笔记本电脑 is an event where a user searches for the most expensive laptop on 京东, retrieves the brand name, and either prints it to the console or saves it to a file."</data>
+  <data key="d2">chunk-bdcbaa514e612579c09f028b28e6da65</data>
+</node>
+<node id="&quot;查询价格最低笔记本电脑&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"查询价格最低笔记本电脑 is an event where a user searches for the least expensive laptop on 京东 and retrieves the brand name to print to the console."</data>
+  <data key="d2">chunk-bdcbaa514e612579c09f028b28e6da65</data>
+</node>
+<node id="&quot;登录京东账号&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"登录京东账号 is an event where a user logs into their 京东 account using an email and password."</data>
+  <data key="d2">chunk-bdcbaa514e612579c09f028b28e6da65</data>
+</node>
+<node id="&quot;查询销售最昂贵电视机&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"查询销售最昂贵电视机 is an event where a user searches for the most expensive television on 京东 and retrieves the product details."</data>
+  <data key="d2">chunk-bdcbaa514e612579c09f028b28e6da65</data>
+</node>
+<node id="&quot;获取待付款订单&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"获取待付款订单 is an event where a user checks their pending payment orders on 京东国际."</data>
+  <data key="d2">chunk-bdcbaa514e612579c09f028b28e6da65</data>
+</node>
+<node id="&quot;最贵的笔记本电脑品牌名&quot;">
+  <data key="d0">"CONCEPT"</data>
+  <data key="d1">"最贵的笔记本电脑品牌名 refers to the brand name of the most expensive laptop on 京东, which is retrieved and used in various tasks."</data>
+  <data key="d2">chunk-bdcbaa514e612579c09f028b28e6da65</data>
+</node>
+<node id="&quot;价格最低的笔记本电脑品牌名&quot;">
+  <data key="d0">"CONCEPT"</data>
+  <data key="d1">"价格最低的笔记本电脑品牌名 refers to the brand name of the least expensive laptop on 京东, which is retrieved and printed to the console."</data>
+  <data key="d2">chunk-bdcbaa514e612579c09f028b28e6da65</data>
+</node>
+<node id="&quot;待付款订单&quot;">
+  <data key="d0">"CONCEPT"</data>
+  <data key="d1">"待付款订单 refers to the pending payment orders on 京东国际, which a user can check and manage."</data>
+  <data key="d2">chunk-bdcbaa514e612579c09f028b28e6da65</data>
+</node>
+<node id="&quot;最畅销的电视机商品名和售价信息&quot;">
+  <data key="d0">"CONCEPT"</data>
+  <data key="d1">"最畅销的电视机商品名和售价信息 refers to the name and price of the most popular television on 京东, which is saved to a text file and sent to a contact on 钉钉."</data>
+  <data key="d2">chunk-bdcbaa514e612579c09f028b28e6da65</data>
+</node>
+<node id="&quot;最贵的电视机&quot;">
+  <data key="d0">"CONCEPT"</data>
+  <data key="d1">"最贵的电视机 refers to the most expensive television on 京东, which is searched for and its details are retrieved."</data>
+  <data key="d2">chunk-bdcbaa514e612579c09f028b28e6da65</data>
+</node>
+<node id="&quot;最贵的笔记本电脑品牌名保存到TXT文件&quot;">
+  <data key="d0">"CONCEPT"</data>
+  <data key="d1">"最贵的笔记本电脑品牌名保存到TXT文件 refers to the process of saving the brand name of the most expensive laptop on 京东 to a text file."</data>
+  <data key="d2">chunk-bdcbaa514e612579c09f028b28e6da65</data>
+</node>
+<node id="&quot;最畅销的电视机商品名发送给钉钉上的拓海&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"最畅销的电视机商品名发送给钉钉上的拓海 is an event where the name of the most popular television on 京东 is sent to a contact named 拓海 on 钉钉."</data>
+  <data key="d2">chunk-bdcbaa514e612579c09f028b28e6da65</data>
+</node>
+<node id="&quot;最畅销的电视机商品名和售价信息保存成一个TXT文件&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"最畅销的电视机商品名和售价信息保存成一个txt文件 is an event where the name and price of the most popular television on 京东 are saved to a text file and sent to a contact named 石昊 on 钉钉."</data>
+  <data key="d2">chunk-bdcbaa514e612579c09f028b28e6da65</data>
+</node>
+<node id="&quot;用户输入&quot;">
+  <data key="d0">"CONCEPT"</data>
+  <data key="d1">"用户输入 refers to the commands or queries entered by a user, which are processed to generate an output or execute a plan."</data>
+  <data key="d2">chunk-f788c884a129889a409d63653e8253fa</data>
+</node>
+<node id="&quot;执行计划&quot;">
+  <data key="d0">"CONCEPT"</data>
+  <data key="d1">"执行计划 is the step-by-step plan outlined to fulfill the user's request, involving actions on the JD platform."</data>
+  <data key="d2">chunk-f788c884a129889a409d63653e8253fa</data>
+</node>
+<node id="&quot;控制台&quot;">
+  <data key="d0">"INTERFACE"</data>
+  <data key="d1">"控制台 is the output interface where the brand name of the most expensive notebook computer is displayed after the search process."</data>
+  <data key="d2">chunk-f788c884a129889a409d63653e8253fa</data>
+</node>
+<node id="&quot;111111111&quot;">
+  <data key="d2">chunk-bd3127c4903686f8bcef11a5c4acb5d3</data>
+  <data key="d1">"京东 uses transaction order numbers like 111111111 to track and manage individual transactions, ensuring efficient order processing."</data>
+  <data key="d0">"UNKNOWN"</data>
+  <data key="d3">[{"level": 0, "cluster": 2}]</data>
+</node>
+<node id="&quot;象印&quot;&lt;|(&quot;ENTITY&quot;">
+  <data key="d2">chunk-d9e1d23a7dcfa43c2aa489e8aad5dfd7</data>
+  <data key="d1">"用户"</data>
+  <data key="d0">"UNKNOWN"</data>
+  <data key="d3">[{"level": 0, "cluster": 2}]</data>
+</node>
+<node id="&quot;商家&quot;">
+  <data key="d2">chunk-63ad3bc0685983f634f5d2491076bcac</data>
+  <data key="d1">"Merchants use 京东商智商家版 to access data and insights about their products and sales, such as traffic and product overviews."</data>
+  <data key="d0">"UNKNOWN"</data>
+  <data key="d3">[{"level": 0, "cluster": 0}]</data>
+</node>
+<edge source="&quot;淘宝&quot;" target="&quot;用户&quot;">
+  <data key="d4">7.0</data>
+  <data key="d5">"The user interacts with 淘宝 to search for and purchase products, specifically viewing product reviews."</data>
+  <data key="d6">chunk-b9456a78eb751575a168042b2bc43533</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;京东&quot;" target="&quot;石昊&quot;">
+  <data key="d4">29.0</data>
+  <data key="d5">"A user searches for 石昊 in the DingTalk application, which could indicate a work-related contact or colleague, possibly related to activities on the 京东 platform or within a shared organization."&lt;SEP&gt;"Information about products from 京东 is shared with 石昊 via DingTalk, indicating a professional relationship or collaboration."&lt;SEP&gt;"The user interacts with 京东 to gather information that is then shared with 石昊 via DingTalk."&lt;SEP&gt;"石昊 receives information about products from JD.com through DingTalk, indicating a relationship where JD.com is the source of product information and石昊 is the recipient."</data>
+  <data key="d6">chunk-d2159607b60e4c40504e9ad2ddb4027f&lt;SEP&gt;chunk-505e75bd34d1c89169f88913b15b44d2&lt;SEP&gt;chunk-c1d7f39624d58e7a897faa20dab72060&lt;SEP&gt;chunk-d9e1d23a7dcfa43c2aa489e8aad5dfd7</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;京东&quot;" target="&quot;钉钉&quot;">
+  <data key="d4">30.0</data>
+  <data key="d5">"The use of 钉钉 to upload files related to 京东 activities suggests that these platforms are used together for business operations, such as file sharing and communication."&lt;SEP&gt;"The user uses both JD and DingTalk to complete tasks, such as sending information about products from JD to contacts on DingTalk."&lt;SEP&gt;"京东 and 钉钉 are used together in the process of obtaining product information and sending it to a contact."&lt;SEP&gt;"京东和钉钉在多个场景中通过文件传输的方式进行交互，如将商品信息发送给钉钉用户。"</data>
+  <data key="d6">chunk-2cbf3c15c8d390deeece4264e99ab2e4&lt;SEP&gt;chunk-04325abd2b6cb1a9337f84f21191eef2&lt;SEP&gt;chunk-c1d7f39624d58e7a897faa20dab72060&lt;SEP&gt;chunk-111e3a99ab3dfa37226d474cf683b165</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;京东&quot;" target="&quot;京东国际&quot;">
+  <data key="d4">17.0</data>
+  <data key="d5">"京东国际 and 京东 are both part of the JD.com ecosystem, with 京东国际 serving international customers while 京东 serves the domestic Chinese market."&lt;SEP&gt;"京东国际 is the international extension of 京东, offering similar services to a global audience."</data>
+  <data key="d6">chunk-505e75bd34d1c89169f88913b15b44d2&lt;SEP&gt;chunk-c1d7f39624d58e7a897faa20dab72060</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;京东&quot;" target="&quot;唯品会&quot;">
+  <data key="d4">7.0</data>
+  <data key="d5">"Both 唯品会 and 京东 are e-commerce platforms used by users to manage their orders, suggesting a common use case of checking and managing online shopping activities across different platforms."</data>
+  <data key="d6">chunk-c1d7f39624d58e7a897faa20dab72060</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;京东&quot;" target="&quot;京东商智商家版&quot;">
+  <data key="d4">46.0</data>
+  <data key="d5">"京东 provides the platform and tools for merchants to use through 京东商智商家版, facilitating business management and customer service."&lt;SEP&gt;"京东 provides the platform for merchants to use 京东商智商家版 for analyzing their business data and performance."&lt;SEP&gt;"京东 provides the 京东商智商家版 tool, which is used by merchants to analyze their store's performance on the platform."&lt;SEP&gt;"京东("entity"&lt;SEP&gt;"京东商智商家版 is a tool provided by 京东, used by merchants to manage and analyze their business on the platform."&lt;SEP&gt;"京东商智商家版 is a tool used by merchants on JD to gain insights into their business, indicating a supportive relationship."</data>
+  <data key="d6">chunk-f788c884a129889a409d63653e8253fa&lt;SEP&gt;chunk-505e75bd34d1c89169f88913b15b44d2&lt;SEP&gt;chunk-04325abd2b6cb1a9337f84f21191eef2&lt;SEP&gt;chunk-d9e1d23a7dcfa43c2aa489e8aad5dfd7&lt;SEP&gt;chunk-c1d7f39624d58e7a897faa20dab72060&lt;SEP&gt;chunk-bd3127c4903686f8bcef11a5c4acb5d3</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;京东&quot;" target="&quot;搜索商品&quot;">
+  <data key="d4">9.0</data>
+  <data key="d5">"京东 is the platform where the event of 搜索商品 takes place, allowing users to search for various products."</data>
+  <data key="d6">chunk-402e3cd68d26a8644b8c512587a514f2</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;京东&quot;" target="&quot;笔记本电脑搜索&quot;">
+  <data key="d4">10.0</data>
+  <data key="d5">"笔记本电脑搜索活动是在京东网站上进行的，目的是找到符合特定条件的笔记本电脑。"</data>
+  <data key="d6">chunk-111e3a99ab3dfa37226d474cf683b165</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;京东&quot;" target="&quot;最畅销笔记本电脑记录&quot;">
+  <data key="d4">1.0</data>
+  <data key="d5">"最畅销笔记本电脑记录活动("entity"</data>
+  <data key="d6">chunk-111e3a99ab3dfa37226d474cf683b165</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;京东&quot;" target="&quot;123&quot;">
+  <data key="d4">7.0</data>
+  <data key="d5">"123 is a username used for logging into JD.com, indicating a user account on the platform."</data>
+  <data key="d6">chunk-111e3a99ab3dfa37226d474cf683b165</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;京东&quot;" target="&quot;345&quot;">
+  <data key="d4">7.0</data>
+  <data key="d5">"345 is a password used for logging into JD.com, indicating a user account on the platform."</data>
+  <data key="d6">chunk-111e3a99ab3dfa37226d474cf683b165</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;京东&quot;" target="&quot;JD_BUYER@SHOP.COM&quot;">
+  <data key="d4">9.0</data>
+  <data key="d5">"jd_buyer@shop.com is a user account that logs into the JD platform to perform various actions, including searching for products and managing the shopping cart."</data>
+  <data key="d6">chunk-ab43fa60c3f316e514d3f34e808777bb</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;京东&quot;" target="&quot;张三&quot;">
+  <data key="d4">8.0</data>
+  <data key="d5">"张三 receives a message via QQ about an action taken on the JD platform, indicating a communication link between the two platforms."</data>
+  <data key="d6">chunk-ab43fa60c3f316e514d3f34e808777bb</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;京东&quot;" target="&quot;王五&quot;">
+  <data key="d4">8.0</data>
+  <data key="d5">"王五 receives a message via QQ about an action taken on the JD platform, indicating a communication link between the two platforms."</data>
+  <data key="d6">chunk-ab43fa60c3f316e514d3f34e808777bb</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;京东&quot;" target="&quot;雪村&quot;">
+  <data key="d4">1.0</data>
+  <data key="d5">"雪村 receives a message via DingTalk about an action taken on the JD platform, indicating a communication link between("entity"</data>
+  <data key="d6">chunk-ab43fa60c3f316e514d3f34e808777bb</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;京东&quot;" target="&quot;笔记本电脑&quot;">
+  <data key="d4">26.0</data>
+  <data key="d5">"The user queries the most expensive notebook computer on 京东, indicating a relationship between the platform and the product category."&lt;SEP&gt;"京东 offers a variety of 笔记本电脑 for sale, making it a key platform for users to search for and purchase laptops."&lt;SEP&gt;"京东作为一个电商平台，提供了用户搜索和获取笔记本电脑信息的服务。"</data>
+  <data key="d6">chunk-427d5b4d1ceeb7f9eb8077a66a05b4ba&lt;SEP&gt;chunk-f788c884a129889a409d63653e8253fa&lt;SEP&gt;chunk-bd3127c4903686f8bcef11a5c4acb5d3</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;京东&quot;" target="&quot;QQ&quot;">
+  <data key="d4">1.0</data>
+  <data key="d5">"京东 allows users to log in using their QQ accounts, integrating the login functionality of QQ("entity"</data>
+  <data key="d6">chunk-bd3127c4903686f8bcef11a5c4acb5d3</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;京东&quot;" target="&quot;111111111&quot;">
+  <data key="d4">9.0</data>
+  <data key="d5">"京东 uses transaction order numbers like 111111111 to track and manage individual transactions, ensuring efficient order processing."</data>
+  <data key="d6">chunk-bd3127c4903686f8bcef11a5c4acb5d3</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;京东&quot;" target="&quot;评论数按钮&quot;">
+  <data key="d4">8.0</data>
+  <data key="d5">"京东 provides the 评论数按钮 feature to help users sort products by the number of comments, enhancing the user experience."</data>
+  <data key="d6">chunk-bd3127c4903686f8bcef11a5c4acb5d3</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;京东&quot;" target="&quot;价格按钮&quot;">
+  <data key="d4">8.0</data>
+  <data key="d5">"京东 offers the 价格按钮 feature to allow users to sort products by price, making it easier to find products within their budget."</data>
+  <data key="d6">chunk-bd3127c4903686f8bcef11a5c4acb5d3</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;京东&quot;" target="&quot;象印&quot;&lt;|(&quot;ENTITY&quot;">
+  <data key="d4">1.0</data>
+  <data key="d5">"用户"</data>
+  <data key="d6">chunk-d9e1d23a7dcfa43c2aa489e8aad5dfd7</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;京东&quot;" target="&quot;象印保温杯&quot;">
+  <data key="d4">18.0</data>
+  <data key="d5">"京东提供象印保温杯的搜索和购买服务。"&lt;SEP&gt;"象印保温杯 is a product that can be searched for on 京东, indicating a user's interest in this specific item."</data>
+  <data key="d6">chunk-2cbf3c15c8d390deeece4264e99ab2e4&lt;SEP&gt;chunk-427d5b4d1ceeb7f9eb8077a66a05b4ba</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;京东&quot;" target="&quot;IPHONE&quot;">
+  <data key="d4">9.0</data>
+  <data key="d5">"京东提供iPhone的搜索和评论数量抓取服务。"</data>
+  <data key="d6">chunk-427d5b4d1ceeb7f9eb8077a66a05b4ba</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;京东&quot;" target="&quot;牙刷&quot;">
+  <data key="d4">1.0</data>
+  <data key="d5">"京东提供牙刷的销量排序搜索服务。"</data>
+  <data key="d6">chunk-427d5b4d1ceeb7f9eb8077a66a05b4ba</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;京东&quot;" target="&quot;最贵的笔记本电脑&quot;">
+  <data key="d4">9.0</data>
+  <data key="d5">"京东提供最贵的笔记本电脑的搜索和信息获取服务。"</data>
+  <data key="d6">chunk-427d5b4d1ceeb7f9eb8077a66a05b4ba</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;京东&quot;" target="&quot;待收货/使用&quot;">
+  <data key="d4">8.0</data>
+  <data key="d5">"京东提供用户查看订单状态为待收货/使用的服务。"</data>
+  <data key="d6">chunk-427d5b4d1ceeb7f9eb8077a66a05b4ba</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;京东&quot;" target="&quot;查看物流&quot;">
+  <data key="d4">8.0</data>
+  <data key="d5">"京东提供用户查询订单物流信息的功能。"</data>
+  <data key="d6">chunk-427d5b4d1ceeb7f9eb8077a66a05b4ba</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;京东&quot;" target="&quot;用户&quot;">
+  <data key="d4">18.0</data>
+  <data key="d5">"The user frequently uses JD.com to search for and purchase products, indicating a strong relationship."&lt;SEP&gt;"The user interacts with 京东 to search for and purchase products, as well as manage their shopping cart and after-sales services."&lt;SEP&gt;"Users search("entity"</data>
+  <data key="d6">chunk-b9456a78eb751575a168042b2bc43533&lt;SEP&gt;chunk-04325abd2b6cb1a9337f84f21191eef2&lt;SEP&gt;chunk-63ad3bc0685983f634f5d2491076bcac</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;京东&quot;" target="&quot;索隆&quot;">
+  <data key="d4">7.0</data>
+  <data key="d5">"索隆 receives information about products from JD.com through DingTalk, indicating a relationship where JD.com is the source of product information and索隆 is the recipient."</data>
+  <data key="d6">chunk-d2159607b60e4c40504e9ad2ddb4027f</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;京东&quot;" target="&quot;23&quot;">
+  <data key="d4">8.0</data>
+  <data key="d5">"23 is a user who logs into JD.com to access personal accounts and services, indicating a user-platform relationship."</data>
+  <data key="d6">chunk-d2159607b60e4c40504e9ad2ddb4027f</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;京东&quot;" target="&quot;DINGTALK&quot;">
+  <data key="d4">7.0</data>
+  <data key="d5">"京东 and DingTalk are used in conjunction to share product information, suggesting a common use case in business communication."</data>
+  <data key="d6">chunk-505e75bd34d1c89169f88913b15b44d2</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;京东&quot;" target="&quot;电视机&quot;">
+  <data key="d4">9.0</data>
+  <data key="d5">"The event of searching for 电视机 is conducted on the 京东 platform, indicating the platform's role in facilitating product searches and sales."</data>
+  <data key="d6">chunk-505e75bd34d1c89169f88913b15b44d2</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;京东&quot;" target="&quot;拓海&quot;">
+  <data key="d4">15.0</data>
+  <data key="d5">"Products found on JD are often shared with拓海 via DingTalk, indicating a collaborative relationship."&lt;SEP&gt;"京东 is the platform from which product information is obtained, which is then sent to 拓海 via DingTalk."</data>
+  <data key="d6">chunk-2cbf3c15c8d390deeece4264e99ab2e4&lt;SEP&gt;chunk-04325abd2b6cb1a9337f84f21191eef2</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;京东&quot;" target="&quot;小明&quot;">
+  <data key="d4">7.0</data>
+  <data key="d5">"京东 is the source of product reviews that are to be shared with 小明 via WeChat."</data>
+  <data key="d6">chunk-2cbf3c15c8d390deeece4264e99ab2e4</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;京东&quot;" target="&quot;李宁&quot;">
+  <data key="d4">9.0</data>
+  <data key="d5">"李宁 is a brand that can be searched for on 京东, indicating a user's interest in products from this brand."</data>
+  <data key="d6">chunk-2cbf3c15c8d390deeece4264e99ab2e4</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;京东&quot;" target="&quot;查询最畅销电视机&quot;">
+  <data key="d4">1.0</data>
+  <data key="d5">"The event of查询最畅销电视机 involves searching for the most popular television on the 京东 platform, indicating the platform's role in the activity."</data>
+  <data key="d6">chunk-bdcbaa514e612579c09f028b28e6da65</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;手机&quot;" target="&quot;搜索商品&quot;">
+  <data key="d4">8.0</data>
+  <data key="d5">"手机 is a product that users can search for on 京东 as part of the event 搜索商品."</data>
+  <data key="d6">chunk-402e3cd68d26a8644b8c512587a514f2</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;石昊&quot;" target="&quot;发送文件&quot;">
+  <data key="d4">8.0</data>
+  <data key="d5">"石昊 is the recipient of a file sent via the event 发送文件, indicating a direct interaction."</data>
+  <data key="d6">chunk-402e3cd68d26a8644b8c512587a514f2</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;石昊&quot;" target="&quot;钉钉&quot;">
+  <data key="d4">8.0</data>
+  <data key="d5">"石昊 is contacted via 钉钉 to receive a message about the most popular phone on 京东."</data>
+  <data key="d6">chunk-b9456a78eb751575a168042b2bc43533</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;钉钉&quot;" target="&quot;京东国际&quot;">
+  <data key="d4">14.0</data>
+  <data key="d5">"The user logs into 京东国际 and uses DingTalk to send information, suggesting a sequence of actions involving both platforms."&lt;SEP&gt;"Users may use 钉钉 to manage and share information related to 京东国际, indicating a connection between the platforms for business purposes."</data>
+  <data key="d6">chunk-04325abd2b6cb1a9337f84f21191eef2&lt;SEP&gt;chunk-c1d7f39624d58e7a897faa20dab72060</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;钉钉&quot;" target="&quot;唯品会&quot;">
+  <data key="d4">6.0</data>
+  <data key="d5">"Users may use 钉钉 to manage and share information related to orders from 唯品会, indicating a connection between the platforms for business purposes."</data>
+  <data key="d6">chunk-c1d7f39624d58e7a897faa20dab72060</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;钉钉&quot;" target="&quot;发送文件&quot;">
+  <data key="d4">9.0</data>
+  <data key="d5">"钉钉 is the platform used to execute the event of 发送文件, where users can share files with others."</data>
+  <data key="d6">chunk-402e3cd68d26a8644b8c512587a514f2</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;钉钉&quot;" target="&quot;高渐离&quot;">
+  <data key="d4">8.0</data>
+  <data key="d5">"高渐离是钉钉平台上的一个用户，负责接收从京东获取的商品信息文件。"</data>
+  <data key="d6">chunk-111e3a99ab3dfa37226d474cf683b165</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;钉钉&quot;" target="&quot;拓海&quot;">
+  <data key="d4">16.0</data>
+  <data key="d5">"DingTalk is used as a communication tool to send information to 拓海, indicating a working or personal relationship."&lt;SEP&gt;"拓海是钉钉平台上的一个用户，负责接收从京东获取的商品信息文件。"</data>
+  <data key="d6">chunk-04325abd2b6cb1a9337f84f21191eef2&lt;SEP&gt;chunk-111e3a99ab3dfa37226d474cf683b165</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;京东国际&quot;" target="&quot;登录账号&quot;">
+  <data key="d4">9.0</data>
+  <data key="d5">"京东国际 is the platform where the event of 登录账号 occurs, allowing users to log into their international accounts."</data>
+  <data key="d6">chunk-402e3cd68d26a8644b8c512587a514f2</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;京东国际&quot;" target="&quot;用户&quot;">
+  <data key="d4">8.0</data>
+  <data key="d5">"Users interact with 京东国际 to view and manage their accounts, including checking return records and following stores."</data>
+  <data key="d6">chunk-63ad3bc0685983f634f5d2491076bcac</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;唯品会&quot;" target="&quot;用户&quot;">
+  <data key="d4">6.0</data>
+  <data key="d5">"The user interacts with 唯品会 to manage their shopping cart and delete items."</data>
+  <data key="d6">chunk-b9456a78eb751575a168042b2bc43533</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;流量概况&quot;" target="&quot;京东商智商家版&quot;">
+  <data key="d4">9.0</data>
+  <data key="d5">"The 京东商智商家版 tool includes the 流量概况 feature, which provides traffic data for merchants to analyze."</data>
+  <data key="d6">chunk-f788c884a129889a409d63653e8253fa</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;搜索商品&quot;" target="&quot;保存文件&quot;">
+  <data key="d4">1.0</data>
+  <data key="d5">"The event of 搜索商品 often leads to the event of 保存文件, as users may save the information of products they find."</data>
+  <data key="d6">chunk-402e3cd68d26a8644b8c512587a514f2</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;京东商智商家版&quot;" target="&quot;农夫山泉&quot;">
+  <data key="d4">8.0</data>
+  <data key="d5">"京东商智商家版 is used to manage the product details and sales of 农夫山泉, indicating a business relationship between the tool and the brand."</data>
+  <data key="d6">chunk-bd3127c4903686f8bcef11a5c4acb5d3</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;京东商智商家版&quot;" target="&quot;123456789&quot;">
+  <data key="d4">8.0</data>
+  <data key="d5">"123456789 is a user who logs into 京东商智商家版 to access business analytics and insights, indicating a user-platform relationship."</data>
+  <data key="d6">chunk-d2159607b60e4c40504e9ad2ddb4027f</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;京东商智商家版&quot;" target="&quot;商家&quot;">
+  <data key="d4">9.0</data>
+  <data key="d5">"Merchants use 京东商智商家版 to access data and insights about their products and sales, such as traffic and product overviews."</data>
+  <data key="d6">chunk-63ad3bc0685983f634f5d2491076bcac</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;QQ&quot;" target="&quot;家庭群&quot;">
+  <data key="d4">9.0</data>
+  <data key="d5">"QQ is used to access and communicate within the 家庭群, which is a specific group chat for family members."</data>
+  <data key="d6">chunk-04325abd2b6cb1a9337f84f21191eef2</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;搜索框&quot;" target="&quot;执行计划&quot;">
+  <data key="d4">8.0</data>
+  <data key="d5">"执行计划 includes the step of using the 搜索框 to input the search query for notebook computers."</data>
+  <data key="d6">chunk-f788c884a129889a409d63653e8253fa</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;用户输入&quot;" target="&quot;执行计划&quot;">
+  <data key="d4">9.0</data>
+  <data key="d5">"用户输入 is the basis for generating the 执行计划, which outlines the steps to fulfill the user's request."</data>
+  <data key="d6">chunk-f788c884a129889a409d63653e8253fa</data>
+  <data key="d7">1</data>
+</edge>
+</graph></graphml>

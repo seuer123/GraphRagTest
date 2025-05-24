@@ -1,0 +1,872 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d7" for="edge" attr.name="order" attr.type="long"/>
+<key id="d6" for="edge" attr.name="source_id" attr.type="string"/>
+<key id="d5" for="edge" attr.name="description" attr.type="string"/>
+<key id="d4" for="edge" attr.name="weight" attr.type="double"/>
+<key id="d3" for="node" attr.name="clusters" attr.type="string"/>
+<key id="d2" for="node" attr.name="source_id" attr.type="string"/>
+<key id="d1" for="node" attr.name="description" attr.type="string"/>
+<key id="d0" for="node" attr.name="entity_type" attr.type="string"/>
+<graph edgedefault="undirected"><node id="&quot;朱元璋&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"朱元璋是明朝的开国皇帝，早期是一位勇敢的将领，曾经历被郭子兴囚禁的困难，后来通过一系列军事胜利建立了自己的势力。"&lt;SEP&gt;"朱元璋是朱重八后来的称号，文中提及他在成了皇帝后对早年经历的情感回忆。"&lt;SEP&gt;"朱元璋，别名朱重八、朱国瑞，汉族，无文凭，后自学。出生贫农家庭，后成为明朝开国皇帝。"</data>
+  <data key="d2">chunk-8091a468687529ab4647eec0e9f0e1dc&lt;SEP&gt;chunk-b26706fdda696524be1e5ff48c2836c2&lt;SEP&gt;chunk-41fce71cb1f6198f0eb409c3481892ec</data>
+  <data key="d3">[{"level": 0, "cluster": 2}]</data>
+</node>
+<node id="&quot;朱五四&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"朱五四，朱元璋的父亲，农民，拥有一个豆腐店，主要靠租种地主土地维持生计。"</data>
+  <data key="d2">chunk-8091a468687529ab4647eec0e9f0e1dc</data>
+  <data key="d3">[{"level": 0, "cluster": 2}]</data>
+</node>
+<node id="&quot;陈氏&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"陈氏，朱元璋的母亲，农民，史书中未记载其具体名字。"</data>
+  <data key="d2">chunk-8091a468687529ab4647eec0e9f0e1dc</data>
+  <data key="d3">[{"level": 0, "cluster": 2}]</data>
+</node>
+<node id="&quot;刘德&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"刘德是拒绝帮助朱重八埋葬其父母的人，态度冷漠。"&lt;SEP&gt;"刘德是朱重八家的地主，拒绝了朱重八的请求，不愿提供土地埋葬其父母。"&lt;SEP&gt;"刘德，地主，朱元璋童年时期曾为其放牛。"</data>
+  <data key="d2">chunk-8091a468687529ab4647eec0e9f0e1dc&lt;SEP&gt;chunk-b26706fdda696524be1e5ff48c2836c2&lt;SEP&gt;chunk-90074c0167f1b96f110e0701bbd3370b</data>
+  <data key="d3">[{"level": 0, "cluster": 3}, {"level": 1, "cluster": 4}]</data>
+</node>
+<node id="&quot;吴老太&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"吴老太，村口的媒婆，曾考虑为朱元璋说媒。"</data>
+  <data key="d2">chunk-8091a468687529ab4647eec0e9f0e1dc</data>
+</node>
+<node id="&quot;元帝国&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"元帝国，由蒙古族建立的王朝，统治中国六十余年，后期极度腐败，最终被农民起义推翻。"</data>
+  <data key="d2">chunk-8091a468687529ab4647eec0e9f0e1dc</data>
+</node>
+<node id="&quot;明朝&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"明朝，由朱元璋建立的朝代，起始于1368年。"</data>
+  <data key="d2">chunk-8091a468687529ab4647eec0e9f0e1dc</data>
+</node>
+<node id="&quot;中国&quot;">
+  <data key="d0">"GEO"</data>
+  <data key="d1">"中国，朱元璋活动的主要地理区域，当时处于元帝国的统治下。"</data>
+  <data key="d2">chunk-8091a468687529ab4647eec0e9f0e1dc</data>
+</node>
+<node id="&quot;1344年饥荒与洪水&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"1344年，中国遭受严重的饥荒和洪水，这些灾难成为元帝国崩溃的导火索。"</data>
+  <data key="d2">chunk-8091a468687529ab4647eec0e9f0e1dc</data>
+</node>
+<node id="&quot;1368年明朝建立&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"1368年，朱元璋推翻元帝国，建立明朝，成为明朝的开国皇帝。"</data>
+  <data key="d2">chunk-8091a468687529ab4647eec0e9f0e1dc</data>
+</node>
+<node id="&quot;朱四九&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"朱四九，朱元璋的曾祖，名字体现了元朝命名习俗。"</data>
+  <data key="d2">chunk-8091a468687529ab4647eec0e9f0e1dc</data>
+  <data key="d3">[{"level": 0, "cluster": 2}]</data>
+</node>
+<node id="&quot;朱初一&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"朱初一，朱元璋的祖父，名字体现了元朝命名习俗。"</data>
+  <data key="d2">chunk-8091a468687529ab4647eec0e9f0e1dc</data>
+</node>
+<node id="&quot;朱重八&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"朱重八是一个从贫穷和苦难中成长起来的人，他经历了从无助的孩童到坚强战士的转变，有着坚定的信仰和不屈的意志。"&lt;SEP&gt;"朱重八是一个在元末起义军中的重要人物，他的生活经历了从农民到起义军士兵的转变，最终成为起义军领袖。"&lt;SEP&gt;"朱重八是后来的明朝开国皇帝朱元璋，文中描述了他在1344年经历的个人悲剧和家庭灾难。"&lt;SEP&gt;"朱重八是故事的主角，面对家庭的不幸和社会的不公，逐渐从脆弱变得坚强，最终选择出家为僧。"&lt;SEP&gt;"朱重八，后来成为明太祖朱元璋，起初在寺庙生活，最终加入起义军。"&lt;SEP&gt;"朱重八，朱元璋的另一个名字，体现了元朝命名习俗。"</data>
+  <data key="d2">chunk-8091a468687529ab4647eec0e9f0e1dc&lt;SEP&gt;chunk-b26706fdda696524be1e5ff48c2836c2&lt;SEP&gt;chunk-9a76d8ffa3427c606f749054f4201706&lt;SEP&gt;chunk-2c6a57e1314b2c844652242279238744&lt;SEP&gt;chunk-90074c0167f1b96f110e0701bbd3370b&lt;SEP&gt;chunk-ae09d8cc60b0994e2115ddece8322649</data>
+  <data key="d3">[{"level": 0, "cluster": 3}, {"level": 1, "cluster": 4}]</data>
+</node>
+<node id="&quot;朱三二&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"朱三二，朱元璋假设未来儿子的名字，体现了元朝命名习俗。"</data>
+  <data key="d2">chunk-8091a468687529ab4647eec0e9f0e1dc</data>
+</node>
+<node id="&quot;朱四零&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"朱四零，朱元璋假设未来儿子的名字，体现了元朝命名习俗。"</data>
+  <data key="d2">chunk-8091a468687529ab4647eec0e9f0e1dc</data>
+</node>
+<node id="&quot;刘小德&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"刘小德，朱元璋假设未来儿子将为之放牛的地主。"</data>
+  <data key="d2">chunk-8091a468687529ab4647eec0e9f0e1dc</data>
+</node>
+<node id="&quot;元朝&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"元朝是一个由蒙古人建立的朝代，将人分为四个等级，实行封建统治。"&lt;SEP&gt;"元朝是中国历史上由蒙古族建立的朝代，统治中国近百年，文中提到元朝的政府面临着黄河泛滥和淮河沿岸的严重瘟疫和旱灾。"&lt;SEP&gt;"元朝，由蒙古族建立的王朝，统治中国六十余年，期间实行严苛的税收和徭役制度。"</data>
+  <data key="d2">chunk-8091a468687529ab4647eec0e9f0e1dc&lt;SEP&gt;chunk-2c6a57e1314b2c844652242279238744&lt;SEP&gt;chunk-90074c0167f1b96f110e0701bbd3370b</data>
+  <data key="d3">[{"level": 0, "cluster": 0}]</data>
+</node>
+<node id="&quot;明朝建立&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"明朝建立，指1368年朱元璋推翻元朝，建立明朝的事件。"</data>
+  <data key="d2">chunk-8091a468687529ab4647eec0e9f0e1dc</data>
+</node>
+<node id="&quot;元帝国崩溃&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"元帝国崩溃，指1344年后的自然灾害和农民起义导致元帝国的最终崩溃。"</data>
+  <data key="d2">chunk-8091a468687529ab4647eec0e9f0e1dc</data>
+</node>
+<node id="&quot;石人一只眼，挑动黄河天下反&quot;">
+  <data key="d0">"CONCEPT"</data>
+  <data key="d1">"这是一句预言，暗示了1344年的自然灾害和农民起义，最终导致元帝国的崩溃。"</data>
+  <data key="d2">chunk-8091a468687529ab4647eec0e9f0e1dc</data>
+</node>
+<node id="&quot;黄河&quot;">
+  <data key="d0">"GEO"</data>
+  <data key="d1">"黄河是中国的第二大河流，文中提到1344年黄河泛滥，造成山东河南几十万人沦为难民。"&lt;SEP&gt;"黄河是元朝治理的重点河流，因官僚腐败导致治理计划失败，引发民怨。"</data>
+  <data key="d2">chunk-9a76d8ffa3427c606f749054f4201706&lt;SEP&gt;chunk-90074c0167f1b96f110e0701bbd3370b</data>
+</node>
+<node id="&quot;山东河南&quot;">
+  <data key="d0">"GEO"</data>
+  <data key="d1">"山东河南是指中国山东省和河南省，文中提到这两个省份在1344年因黄河泛滥遭受严重灾难。"</data>
+  <data key="d2">chunk-90074c0167f1b96f110e0701bbd3370b</data>
+</node>
+<node id="&quot;淮河沿岸&quot;">
+  <data key="d0">"GEO"</data>
+  <data key="d1">"淮河沿岸是指中国淮河流域的沿岸地区，文中提到1344年该地区遭遇严重瘟疫和旱灾。"</data>
+  <data key="d2">chunk-90074c0167f1b96f110e0701bbd3370b</data>
+</node>
+<node id="&quot;黄河泛滥&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"黄河泛滥是指1344年黄河发生的大规模洪水，导致大量人口流离失所。"</data>
+  <data key="d2">chunk-90074c0167f1b96f110e0701bbd3370b</data>
+</node>
+<node id="&quot;淮河沿岸的瘟疫和旱灾&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"淮河沿岸的瘟疫和旱灾是指1344年淮河流域遭遇的严重疾病和干旱，对当地居民造成了巨大影响。"</data>
+  <data key="d2">chunk-90074c0167f1b96f110e0701bbd3370b</data>
+</node>
+<node id="&quot;脱脱&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"脱脱是元朝的官员，主张治理黄河，但因官僚腐败导致计划失败。"&lt;SEP&gt;"脱脱是元朝的著名宰相，主张修筑黄河河堤，但他的极力主张最终给元朝埋下了危机。"</data>
+  <data key="d2">chunk-9a76d8ffa3427c606f749054f4201706&lt;SEP&gt;chunk-90074c0167f1b96f110e0701bbd3370b</data>
+  <data key="d3">[{"level": 0, "cluster": 0}]</data>
+</node>
+<node id="&quot;元顺帝&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"元顺帝是元朝的皇帝，文中提到他在1344年发布诏书赈灾，但实际效果有限。"</data>
+  <data key="d2">chunk-90074c0167f1b96f110e0701bbd3370b</data>
+</node>
+<node id="&quot;中书省&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"中书省是元朝的中央政府机构之一，负责处理政务和赈灾事务。"</data>
+  <data key="d2">chunk-90074c0167f1b96f110e0701bbd3370b</data>
+</node>
+<node id="&quot;尧舜禹汤&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"尧舜禹汤是中国古代的四位贤君，文中提到元顺帝将自己与这些历史上的贤君相比较。"</data>
+  <data key="d2">chunk-90074c0167f1b96f110e0701bbd3370b</data>
+</node>
+<node id="&quot;地主家不吃的猪头肉&quot;">
+  <data key="d0">"CONCEPT"</data>
+  <data key="d1">"地主家不吃的猪头肉是朱重八家人偶尔能获得的食物，象征着他们生活的贫困。"</data>
+  <data key="d2">chunk-90074c0167f1b96f110e0701bbd3370b</data>
+</node>
+<node id="&quot;草席&quot;">
+  <data key="d0">"CONCEPT"</data>
+  <data key="d1">"草席是朱重八用来包裹亲人尸体的简陋物品，反映了他在家庭悲剧中的贫困和无助。"</data>
+  <data key="d2">chunk-90074c0167f1b96f110e0701bbd3370b</data>
+</node>
+<node id="&quot;刘德的拒绝&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"刘德的拒绝是指地主刘德拒绝朱重八请求提供土地埋葬其父母的行为，加剧了朱重八的困境。"</data>
+  <data key="d2">chunk-90074c0167f1b96f110e0701bbd3370b</data>
+</node>
+<node id="&quot;皇觉寺&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"皇觉寺是朱重八出家的地方，他在寺里从事各种杂务，生活艰苦。"&lt;SEP&gt;"皇觉寺是朱重八成长的重要地点，他在此地经历了心灵的成长和转变。"</data>
+  <data key="d2">chunk-9a76d8ffa3427c606f749054f4201706&lt;SEP&gt;chunk-b26706fdda696524be1e5ff48c2836c2</data>
+  <data key="d3">[{"level": 0, "cluster": 3}, {"level": 1, "cluster": 4}]</data>
+</node>
+<node id="&quot;淮西和河南&quot;">
+  <data key="d0">"GEO"</data>
+  <data key="d1">"淮西和河南是朱重八化缘的区域，当时正遭受严重的饥荒。"</data>
+  <data key="d2">chunk-b26706fdda696524be1e5ff48c2836c2</data>
+  <data key="d3">[{"level": 0, "cluster": 3}, {"level": 1, "cluster": 4}]</data>
+</node>
+<node id="&quot;明教&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"明教是朱重八在化缘过程中形成的宗教信仰，他相信弥勒佛会降世。"&lt;SEP&gt;"明教是朱重八的宗教信仰，他相信在黑暗时代弥勒佛会降临。"</data>
+  <data key="d2">chunk-9a76d8ffa3427c606f749054f4201706&lt;SEP&gt;chunk-b26706fdda696524be1e5ff48c2836c2</data>
+  <data key="d3">[{"level": 0, "cluster": 3}, {"level": 1, "cluster": 4}]</data>
+</node>
+<node id="&quot;化缘&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"化缘是指化缘者出门讨饭的行为，朱重八在皇觉寺期间不得不进行这项活动。"</data>
+  <data key="d2">chunk-b26706fdda696524be1e5ff48c2836c2</data>
+</node>
+<node id="&quot;朱重八的二哥&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"朱重八的二哥在父母去世后，与朱重八一起用草席盖着尸体，尝试找地方埋葬。"</data>
+  <data key="d2">chunk-b26706fdda696524be1e5ff48c2836c2</data>
+</node>
+<node id="&quot;地主&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"地主是土地的拥有者，不亲自耕种却衣食无忧，与佃户形成鲜明对比。"</data>
+  <data key="d2">chunk-b26706fdda696524be1e5ff48c2836c2</data>
+</node>
+<node id="&quot;太上老君&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"太上老君是道教中的重要神祇，朱重八曾向他祈求帮助。"</data>
+  <data key="d2">chunk-b26706fdda696524be1e5ff48c2836c2</data>
+</node>
+<node id="&quot;如来佛祖&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"如来佛祖是佛教中的最高神祇，朱重八曾向他祈求帮助。"</data>
+  <data key="d2">chunk-b26706fdda696524be1e5ff48c2836c2</data>
+</node>
+<node id="&quot;唐僧&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"唐僧是《西游记》中的角色，文中用来比喻化缘的行为。"</data>
+  <data key="d2">chunk-b26706fdda696524be1e5ff48c2836c2</data>
+</node>
+<node id="&quot;悟空&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"悟空是《西游记》中的角色，文中提到他负责化缘。"</data>
+  <data key="d2">chunk-b26706fdda696524be1e5ff48c2836c2</data>
+</node>
+<node id="&quot;领导的亲戚&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"领导的亲戚被指派到富有的地方化缘，而朱重八则被指派到穷地方。"</data>
+  <data key="d2">chunk-b26706fdda696524be1e5ff48c2836c2</data>
+</node>
+<node id="&quot;淮西的豪杰&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"淮西的豪杰是朱重八在化缘过程中结识的人，对他的成长有一定影响。"</data>
+  <data key="d2">chunk-b26706fdda696524be1e5ff48c2836c2</data>
+</node>
+<node id="&quot;弥勒佛&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"弥勒佛是朱重八信仰的明教中的重要神祇，被认为是未来的救世主。"</data>
+  <data key="d2">chunk-b26706fdda696524be1e5ff48c2836c2</data>
+</node>
+<node id="&quot;佛教的和尚&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"佛教的和尚是朱重八在皇觉寺中遇到的人，他们的生活态度和行为对朱重八产生了影响。"</data>
+  <data key="d2">chunk-b26706fdda696524be1e5ff48c2836c2</data>
+</node>
+<node id="&quot;道教的信徒&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"道教的信徒是朱重八在祈求帮助时提到的信仰者。"</data>
+  <data key="d2">chunk-b26706fdda696524be1e5ff48c2836c2</data>
+</node>
+<node id="&quot;淮西&quot;">
+  <data key="d0">"GEO"</data>
+  <data key="d1">"淮西是朱重八曾经讨饭的地方，他在那里度过了三年的时间。"</data>
+  <data key="d2">chunk-9a76d8ffa3427c606f749054f4201706</data>
+  <data key="d3">[{"level": 0, "cluster": 3}, {"level": 1, "cluster": 4}]</data>
+</node>
+<node id="&quot;至正十一年起义&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"至正十一年起义是元朝末年的一次大规模农民起义，由韩山童和刘福通领导，标志着元朝统治的动摇。"</data>
+  <data key="d2">chunk-9a76d8ffa3427c606f749054f4201706</data>
+  <data key="d3">[{"level": 0, "cluster": 0}]</data>
+</node>
+<node id="&quot;韩山童&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"韩山童是至正十一年起义的领导人之一，自称宋朝皇室后裔。"&lt;SEP&gt;"韩山童，原为贫农，后声称成为宋朝皇室后裔，带领起义反抗元朝。"</data>
+  <data key="d2">chunk-9a76d8ffa3427c606f749054f4201706&lt;SEP&gt;chunk-2c6a57e1314b2c844652242279238744</data>
+  <data key="d3">[{"level": 0, "cluster": 0}]</data>
+</node>
+<node id="&quot;刘福通&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"刘福通是至正十一年起义的领导人之一，自称是宋朝将领刘光世的后人。"&lt;SEP&gt;"刘福通，起义军领袖之一，声称是宋朝将领刘光世的后代。"</data>
+  <data key="d2">chunk-9a76d8ffa3427c606f749054f4201706&lt;SEP&gt;chunk-2c6a57e1314b2c844652242279238744</data>
+  <data key="d3">[{"level": 0, "cluster": 0}]</data>
+</node>
+<node id="&quot;白莲教&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"白莲教是韩山童和刘福通起义时所依托的宗教组织，用以号召民众。"</data>
+  <data key="d2">chunk-9a76d8ffa3427c606f749054f4201706</data>
+</node>
+<node id="&quot;颖州&quot;">
+  <data key="d0">"GEO"</data>
+  <data key="d1">"颖州是韩山童和刘福通起义的地点，也是朱重八曾经讨饭的地方。"</data>
+  <data key="d2">chunk-9a76d8ffa3427c606f749054f4201706</data>
+</node>
+<node id="&quot;山东&quot;">
+  <data key="d0">"GEO"</data>
+  <data key="d1">"山东是民工挖出石人、引发起义的地方。"</data>
+  <data key="d2">chunk-9a76d8ffa3427c606f749054f4201706</data>
+</node>
+<node id="&quot;石人&quot;">
+  <data key="d0">"CONCEPT"</data>
+  <data key="d1">"石人是一只眼睛的石像，背部刻有预言，成为起义的导火索。"</data>
+  <data key="d2">chunk-9a76d8ffa3427c606f749054f4201706</data>
+</node>
+<node id="&quot;宋朝&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"宋朝是一个历史上的朝代，韩山童声称自己是其皇室后裔。"&lt;SEP&gt;"宋朝是韩山童和刘福通起义时自称的皇室背景，用以增强起义的合法性和号召力。"</data>
+  <data key="d2">chunk-9a76d8ffa3427c606f749054f4201706&lt;SEP&gt;chunk-2c6a57e1314b2c844652242279238744</data>
+  <data key="d3">[{"level": 0, "cluster": 0}]</data>
+</node>
+<node id="&quot;刘光世&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"刘光世是宋朝的一位将领，刘福通自称是他的后人。"</data>
+  <data key="d2">chunk-9a76d8ffa3427c606f749054f4201706</data>
+  <data key="d3">[{"level": 0, "cluster": 0}]</data>
+</node>
+<node id="&quot;陈胜吴广起义&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"陈胜吴广起义是历史上著名的农民起义，韩山童和刘福通的起义形式与之类似。"</data>
+  <data key="d2">chunk-9a76d8ffa3427c606f749054f4201706</data>
+</node>
+<node id="&quot;汤和&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"汤和是朱元璋选拔的二十四人之一，后来成为明王朝的高级干部。"&lt;SEP&gt;"汤和是朱重八的同乡，成为了他的第一个战友，也是唯一一个陪他走完起义之路的人。"&lt;SEP&gt;"汤和，朱重八的幼年朋友，起义军千户，邀请朱重八加入起义军。"</data>
+  <data key="d2">chunk-41fce71cb1f6198f0eb409c3481892ec&lt;SEP&gt;chunk-2c6a57e1314b2c844652242279238744&lt;SEP&gt;chunk-ae09d8cc60b0994e2115ddece8322649</data>
+  <data key="d3">[{"level": 0, "cluster": 3}, {"level": 1, "cluster": 5}]</data>
+</node>
+<node id="&quot;起义&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"起义是指1351年韩山童和刘福通领导的反抗元朝封建统治的群众运动。"</data>
+  <data key="d2">chunk-2c6a57e1314b2c844652242279238744</data>
+  <data key="d3">[{"level": 0, "cluster": 1}]</data>
+</node>
+<node id="&quot;蒙古人&quot;">
+  <data key="d0">"GEO"</data>
+  <data key="d1">"蒙古人是元朝的统治阶级，享有特权，对低等民族实施压迫。"</data>
+  <data key="d2">chunk-2c6a57e1314b2c844652242279238744</data>
+</node>
+<node id="&quot;南人&quot;">
+  <data key="d0">"GEO"</data>
+  <data key="d1">"南人是元朝统治下的低等民族，受到蒙古人的压迫和歧视。"</data>
+  <data key="d2">chunk-2c6a57e1314b2c844652242279238744</data>
+</node>
+<node id="&quot;寺庙&quot;">
+  <data key="d0">"LOCATION"</data>
+  <data key="d1">"寺庙是朱重八在起义前曾经避难的地方，也是他被告发的地点。"&lt;SEP&gt;"寺庙是朱重八最初生活的地方，他在那里过着枯燥而有规律的生活。"</data>
+  <data key="d2">chunk-2c6a57e1314b2c844652242279238744&lt;SEP&gt;chunk-ae09d8cc60b0994e2115ddece8322649</data>
+  <data key="d3">[{"level": 0, "cluster": 3}, {"level": 1, "cluster": 4}]</data>
+</node>
+<node id="&quot;起义军&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"起义军是元末时期反对元朝统治的武装力量，朱重八加入了起义军，成为其中的一员。"&lt;SEP&gt;"起义军是由韩山童和刘福通领导的反抗元朝的武装力量，包括数百万人。"</data>
+  <data key="d2">chunk-2c6a57e1314b2c844652242279238744&lt;SEP&gt;chunk-ae09d8cc60b0994e2115ddece8322649</data>
+  <data key="d3">[{"level": 0, "cluster": 3}, {"level": 1, "cluster": 5}]</data>
+</node>
+<node id="&quot;元的官吏&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"元的官吏是元朝的官员，他们在镇压起义时采取了欺压百姓的手段。"</data>
+  <data key="d2">chunk-2c6a57e1314b2c844652242279238744</data>
+  <data key="d3">[{"level": 0, "cluster": 3}, {"level": 1, "cluster": 5}]</data>
+</node>
+<node id="&quot;千户&quot;">
+  <data key="d0">"ROLE"</data>
+  <data key="d1">"千户是起义军中的一个官职，汤和担任此职。"</data>
+  <data key="d2">chunk-2c6a57e1314b2c844652242279238744</data>
+</node>
+<node id="&quot;朱重八的师兄&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"朱重八的师兄是寺庙中的人物，告知朱重八有人准备告发他看义军信件的事情。"</data>
+  <data key="d2">chunk-2c6a57e1314b2c844652242279238744</data>
+</node>
+<node id="&quot;周德兴&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"周德兴是在朱重八面临抉择时给出建议的人，虽然建议并不实际，但对朱重八的决定产生了影响。"&lt;SEP&gt;"周德兴是朱元璋的早期追随者之一，曾为朱元璋算过命，后来成为明王朝的高级干部。"</data>
+  <data key="d2">chunk-41fce71cb1f6198f0eb409c3481892ec&lt;SEP&gt;chunk-ae09d8cc60b0994e2115ddece8322649</data>
+  <data key="d3">[{"level": 0, "cluster": 3}, {"level": 1, "cluster": 4}]</data>
+</node>
+<node id="&quot;郭子兴&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"郭子兴是朱元璋的早期上司，性格暴躁，不能容忍可能挑战他地位的人，但最终还是给了朱元璋带兵的机会。"&lt;SEP&gt;"郭子兴是濠州城的元帅，最初怀疑朱重八是元军的奸细，后来成为朱重八的上级，对朱重八的能力印象深刻。"</data>
+  <data key="d2">chunk-41fce71cb1f6198f0eb409c3481892ec&lt;SEP&gt;chunk-ae09d8cc60b0994e2115ddece8322649</data>
+</node>
+<node id="&quot;濠州城&quot;">
+  <data key="d0">"GEO"</data>
+  <data key="d1">"濠州城是元末时期被元军围困的城市，郭子兴在此指挥守城。"</data>
+  <data key="d2">chunk-ae09d8cc60b0994e2115ddece8322649</data>
+</node>
+<node id="&quot;元军围城&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"元军围城是指元朝军队对濠州城的长时间围困，对濠州城的守卫者构成了严重威胁。"</data>
+  <data key="d2">chunk-ae09d8cc60b0994e2115ddece8322649</data>
+</node>
+<node id="&quot;朱重八投军&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"朱重八投军是指朱重八决定加入起义军，成为反抗元朝统治的一分子。"</data>
+  <data key="d2">chunk-ae09d8cc60b0994e2115ddece8322649</data>
+</node>
+<node id="&quot;信件&quot;">
+  <data key="d0">"CONCEPT"</data>
+  <data key="d1">"信件是指朱重八收到的起义军的邀请信，这封信成为他被怀疑和告发的导火索。"</data>
+  <data key="d2">chunk-ae09d8cc60b0994e2115ddece8322649</data>
+</node>
+<node id="&quot;告发&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"告发是指有人向当局报告朱重八看过起义军信件的事情，导致他面临危险。"</data>
+  <data key="d2">chunk-ae09d8cc60b0994e2115ddece8322649</data>
+</node>
+<node id="&quot;造反&quot;">
+  <data key="d0">"CONCEPT"</data>
+  <data key="d1">"造反是指朱重八决定加入起义军，反抗元朝的统治。"</data>
+  <data key="d2">chunk-ae09d8cc60b0994e2115ddece8322649</data>
+</node>
+<node id="&quot;元帅府&quot;">
+  <data key="d0">"LOCATION"</data>
+  <data key="d1">"元帅府是郭子兴在濠州城的指挥所，他在此处理军事和城防事务。"</data>
+  <data key="d2">chunk-ae09d8cc60b0994e2115ddece8322649</data>
+</node>
+<node id="&quot;军士&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"军士是郭子兴手下的士兵，负责报告和处理城中的事务。"</data>
+  <data key="d2">chunk-ae09d8cc60b0994e2115ddece8322649</data>
+</node>
+<node id="&quot;令旗&quot;">
+  <data key="d0">"CONCEPT"</data>
+  <data key="d1">"令旗是古代军事中用于下达命令的旗帜，士兵需要凭令旗执行命令。"</data>
+  <data key="d2">chunk-ae09d8cc60b0994e2115ddece8322649</data>
+</node>
+<node id="&quot;奸细&quot;">
+  <data key="d0">"CONCEPT"</data>
+  <data key="d1">"奸细是指被怀疑为敌方间谍的人，朱重八最初被误认为是元军的奸细。"</data>
+  <data key="d2">chunk-ae09d8cc60b0994e2115ddece8322649</data>
+</node>
+<node id="&quot;元军&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"元军是元朝的军队，对濠州城进行了长时间的围困。"&lt;SEP&gt;"元军是当时统治中国的蒙古军队，朱元璋曾与之交战并取得胜利。"</data>
+  <data key="d2">chunk-41fce71cb1f6198f0eb409c3481892ec&lt;SEP&gt;chunk-ae09d8cc60b0994e2115ddece8322649</data>
+</node>
+<node id="&quot;至正十二年&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"至正十二年是元末时期的一个年号，对应公元1352年。"</data>
+  <data key="d2">chunk-ae09d8cc60b0994e2115ddece8322649</data>
+</node>
+<node id="&quot;朱元璋 (ZHU YUANZHANG)&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"朱元璋，原名朱重八，是明朝的开国皇帝。他在军队中表现出色，不仅作战勇敢，而且有计谋，冷静，讲义气，很快赢得了崇高的威信。他被提拔为九人长，并成为郭子兴的亲兵长。他改名为朱元璋，寓意为诛灭元朝的利器。"</data>
+  <data key="d2">chunk-4bdd775f30019125ecf386a970f73cb9</data>
+</node>
+<node id="&quot;郭子兴 (GUO ZIXING)&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"郭子兴是朱元璋的上司，起义军的统帅之一。他对朱元璋的信任逐渐加深，但后来因为朱元璋的能力超越了自己，开始产生忌惮，并最终将朱元璋关押。"</data>
+  <data key="d2">chunk-4bdd775f30019125ecf386a970f73cb9</data>
+</node>
+<node id="&quot;汤和 (TANG HE)&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"汤和是朱元璋的同乡，在军队中官职较高，但非常尊敬朱元璋，对朱元璋的能力有远见，这帮助他在后来的斗争中生存下来。"</data>
+  <data key="d2">chunk-4bdd775f30019125ecf386a970f73cb9</data>
+</node>
+<node id="&quot;马姑娘 (MA GIRL)&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"马姑娘是郭子兴的义女，朱元璋的妻子。她对朱元璋的成功起到了关键作用，给朱元璋带来了家庭的温暖和支持。"</data>
+  <data key="d2">chunk-4bdd775f30019125ecf386a970f73cb9</data>
+</node>
+<node id="&quot;孙德崖 (SUN DECKLA)&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"孙德崖是濠州的起义军统帅之一，与郭子兴存在矛盾。他参与了对郭子兴的绑架，并因贪污公款等问题被朱元璋揭露。"</data>
+  <data key="d2">chunk-4bdd775f30019125ecf386a970f73cb9</data>
+</node>
+<node id="&quot;濠州 (HAOZHOU)&quot;">
+  <data key="d0">"GEO"</data>
+  <data key="d1">"濠州是朱元璋和郭子兴活动的地点，也是起义军的主要根据地之一。"</data>
+  <data key="d2">chunk-4bdd775f30019125ecf386a970f73cb9</data>
+</node>
+<node id="&quot;朱元璋改名 (ZHU YUANZHANG'S NAME CHANGE)&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"朱元璋将名字从朱重八改为朱元璋，寓意为诛灭元朝的利器，标志着他对未来的决心和抱负。"</data>
+  <data key="d2">chunk-4bdd775f30019125ecf386a970f73cb9</data>
+</node>
+<node id="&quot;郭子兴被绑 (GUO ZIXING'S KIDNAPPING)&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"郭子兴在濠州被一群不明身份的人绑架并殴打，后来被朱元璋救出。("entity"</data>
+  <data key="d2">chunk-4bdd775f30019125ecf386a970f73cb9</data>
+</node>
+<node id="&quot;起义军 (REBEL ARMY)&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"起义军是指反抗元朝统治的军队，朱元璋和郭子兴都是其中的重要成员。"</data>
+  <data key="d2">chunk-4bdd775f30019125ecf386a970f73cb9</data>
+</node>
+<node id="&quot;九人长 (NINE-MAN LEADER)&quot;">
+  <data key="d0">"ROLE"</data>
+  <data key="d1">"九人长是朱元璋在军队中的第一个官职，标志着他开始得到提拔。"</data>
+  <data key="d2">chunk-4bdd775f30019125ecf386a970f73cb9</data>
+</node>
+<node id="&quot;亲兵长 (PERSONAL GUARD LEADER)&quot;">
+  <data key="d0">"ROLE"</data>
+  <data key="d1">"亲兵长是朱元璋在郭子兴手下的职位，他负责保护郭子兴，并逐渐成为郭子兴的智囊。"</data>
+  <data key="d2">chunk-4bdd775f30019125ecf386a970f73cb9</data>
+</node>
+<node id="&quot;总管 (GENERAL MANAGER)&quot;">
+  <data key="d0">"ROLE"</data>
+  <data key="d1">"总管是朱元璋在军队中担任的一个高级职位，类似于起义军的办公室主任，负责管理财务和其他行政事务。"</data>
+  <data key="d2">chunk-4bdd775f30019125ecf386a970f73cb9</data>
+</node>
+<node id="&quot;郭子兴的义女 (GUO ZIXING'S ADOPTED DAUGHTER)&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"郭子兴的义女是朱元璋的妻子，给朱元璋带来了家庭的温暖和支持。"</data>
+  <data key="d2">chunk-4bdd775f30019125ecf386a970f73cb9</data>
+</node>
+<node id="&quot;郭子兴的朋友 (GUO ZIXING'S FRIEND)&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"郭子兴的朋友是马姑娘的父亲，将马姑娘托付给郭子兴。"</data>
+  <data key="d2">chunk-4bdd775f30019125ecf386a970f73cb9</data>
+</node>
+<node id="&quot;孙德崖的士兵 (SUN DECKLA'S SOLDIERS)&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"孙德崖的士兵参与了对郭子兴的绑架，并在朱元璋的威胁下被揭露。"</data>
+  <data key="d2">chunk-4bdd775f30019125ecf386a970f73cb9</data>
+</node>
+<node id="&quot;郭子兴的儿子 (GUO ZIXING'S SON)&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"郭子兴的儿子在郭子兴忌惮朱元璋后，参与了对朱元璋的关押。"</data>
+  <data key="d2">chunk-4bdd775f30019125ecf386a970f73cb9</data>
+</node>
+<node id="&quot;上天 (HEAVEN)&quot;">
+  <data key="d0">"CONCEPT"</data>
+  <data key="d1">"上天在文中被比喻为朱元璋命运的决定者，暗示他将面临更大的挑战。"</data>
+  <data key="d2">chunk-4bdd775f30019125ecf386a970f73cb9</data>
+</node>
+<node id="&quot;马姑娘&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"马姑娘是朱元璋的妻子，曾多次冒着风险帮助被囚禁的朱元璋，体现了她的勇敢和忠诚。"</data>
+  <data key="d2">chunk-41fce71cb1f6198f0eb409c3481892ec</data>
+</node>
+<node id="&quot;定远&quot;">
+  <data key="d0">"GEO"</data>
+  <data key="d1">"定远是郭子兴的故乡，朱元璋奉命攻击此地，成功攻克后迅速展现出军事才能。"</data>
+  <data key="d2">chunk-41fce71cb1f6198f0eb409c3481892ec</data>
+</node>
+<node id="&quot;怀远&quot;">
+  <data key="d0">"GEO"</data>
+  <data key="d1">"怀远是朱元璋攻克的第二个城镇，展现了他连续攻城的能力。"</data>
+  <data key="d2">chunk-41fce71cb1f6198f0eb409c3481892ec</data>
+</node>
+<node id="&quot;安奉&quot;">
+  <data key="d0">"GEO"</data>
+  <data key="d1">"安奉是朱元璋攻克的第三个城镇，进一步巩固了他在军事上的威望。"</data>
+  <data key="d2">chunk-41fce71cb1f6198f0eb409c3481892ec</data>
+</node>
+<node id="&quot;含山&quot;">
+  <data key="d0">"GEO"</data>
+  <data key="d1">"含山是朱元璋攻克的第四个城镇，连战连捷使他声名鹊起。"</data>
+  <data key="d2">chunk-41fce71cb1f6198f0eb409c3481892ec</data>
+</node>
+<node id="&quot;虹县&quot;">
+  <data key="d0">"GEO"</data>
+  <data key="d1">"虹县是朱元璋攻克的第五个城镇，进一步扩大了他的势力范围。"</data>
+  <data key="d2">chunk-41fce71cb1f6198f0eb409c3481892ec</data>
+</node>
+<node id="&quot;钟离&quot;">
+  <data key="d0">"GEO"</data>
+  <data key="d1">"钟离是朱元璋的家乡，他在这里遇到了来投奔的二十四个壮丁，这些人的加入为他日后的成功打下了基础。"</data>
+  <data key="d2">chunk-41fce71cb1f6198f0eb409c3481892ec</data>
+</node>
+<node id="&quot;徐达&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"徐达是朱元璋的得力将领，被誉为‘天下第一名将’，后来成为明王朝的重要官员。"</data>
+  <data key="d2">chunk-41fce71cb1f6198f0eb409c3481892ec</data>
+</node>
+<node id="&quot;郭子(&quot;ENTITY&quot;">
+  <data key="d0">"郭子兴的儿子"</data>
+  <data key="d1">"person"</data>
+  <data key="d2">chunk-41fce71cb1f6198f0eb409c3481892ec</data>
+</node>
+<node id="&quot;濠州&quot;">
+  <data key="d0">"GEO"</data>
+  <data key="d1">"濠州是朱元璋早期活动的地点，也是他最终离开郭子兴的地方。"</data>
+  <data key="d2">chunk-41fce71cb1f6198f0eb409c3481892ec</data>
+</node>
+<node id="&quot;明王朝&quot;">
+  <data key="d0">"ORGANIZATION"</data>
+  <data key="d1">"明王朝是朱元璋建立的朝代，后来的二十四名追随者成为其高级干部。"</data>
+  <data key="d2">chunk-41fce71cb1f6198f0eb409c3481892ec</data>
+</node>
+<node id="&quot;黄巢&quot;">
+  <data key="d0">"PERSON"</data>
+  <data key="d1">"黄巢是唐代农民起义的领袖，曾率军攻入长安，留下著名的《咏菊》诗。"</data>
+  <data key="d2">chunk-41fce71cb1f6198f0eb409c3481892ec</data>
+</node>
+<node id="&quot;长安城&quot;">
+  <data key="d0">"GEO"</data>
+  <data key="d1">"长安城是唐代的都城，黄巢曾率军攻入此地。"</data>
+  <data key="d2">chunk-41fce71cb1f6198f0eb409c3481892ec</data>
+</node>
+<node id="&quot;《咏菊》&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"《咏菊》是唐代农民起义领袖黄巢所作的一首诗，表达了他豪迈的气概和志向。"</data>
+  <data key="d2">chunk-41fce71cb1f6198f0eb409c3481892ec</data>
+</node>
+<node id="&quot;庙&quot;">
+  <data key="d0">"LOCATION"</data>
+  <data key="d1">"庙是朱元璋早年工作和生活的地方，他在那里干过苦力。"</data>
+  <data key="d2">chunk-41fce71cb1f6198f0eb409c3481892ec</data>
+</node>
+<node id="&quot;父母去世&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"父母去世是朱元璋早年经历的悲痛事件，对他的性格和行为产生了影响。"</data>
+  <data key="d2">chunk-41fce71cb1f6198f0eb409c3481892ec</data>
+</node>
+<node id="&quot;夜望天痛哭&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"夜望天痛哭是朱元璋在庙里工作时，因悲痛而夜望天空痛哭的场景。"</data>
+  <data key="d2">chunk-41fce71cb1f6198f0eb409c3481892ec</data>
+</node>
+<node id="&quot;占卜&quot;">
+  <data key="d0">"EVENT"</data>
+  <data key="d1">"占卜是朱元璋在做出重大决定前的一种求神问卜的行为，反映了他对未来的不确定性和担忧。"</data>
+  <data key="d2">chunk-41fce71cb1f6198f0eb409c3481892ec</data>
+</node>
+<node id="&quot;西风&quot;">
+  <data key="d0">"CONCEPT"</data>
+  <data key="d1">"西风在黄巢的《咏菊》诗中象征着强大的力量，与朱元璋的志向相呼应。"</data>
+  <data key="d2">chunk-41fce71cb1f6198f0eb409c3481892ec</data>
+</node>
+<node id="&quot;朱百六&quot;">
+  <data key="d2">chunk-8091a468687529ab4647eec0e9f0e1dc</data>
+  <data key="d1">"朱百六是朱元璋的高祖，名字体现了元朝命名习俗。"</data>
+  <data key="d0">"UNKNOWN"</data>
+  <data key="d3">[{"level": 0, "cluster": 2}]</data>
+</node>
+<node id="&quot;元至正四年&quot;">
+  <data key="d2">chunk-90074c0167f1b96f110e0701bbd3370b</data>
+  <data key="d1">"元至正四年（1344年）发生了黄河泛滥，导致大量人口流离失所。</data>
+  <data key="d0">"UNKNOWN"</data>
+</node>
+<node id="&quot;赈灾物品&quot;">
+  <data key="d2">chunk-90074c0167f1b96f110e0701bbd3370b</data>
+  <data key="d1">"中书省负责联系粮食和银两，但赈灾物品在层层克扣后到达百姓手中时已所剩无几。</data>
+  <data key="d0">"UNKNOWN"</data>
+</node>
+<node id="&quot;朱重八的父母&quot;">
+  <data key="d2">chunk-b26706fdda696524be1e5ff48c2836c2</data>
+  <data key="d1">"person"</data>
+  <data key="d0">"UNKNOWN"</data>
+</node>
+<node id="&quot;皇(&quot;ENTITY&quot;">
+  <data key="d2">chunk-b26706fdda696524be1e5ff48c2836c2</data>
+  <data key="d1">"person"</data>
+  <data key="d0">"UNKNOWN"</data>
+</node>
+<node id="&quot;陈胜吴广&quot;">
+  <data key="d2">chunk-2c6a57e1314b2c844652242279238744</data>
+  <data key="d1">"陈胜吴广是历史上最早的起义领导者，他们的命运与韩山童和刘福通的起义相似。"</data>
+  <data key="d0">"UNKNOWN"</data>
+  <data key="d3">[{"level": 0, "cluster": 1}]</data>
+</node>
+<node id="&quot;郭子兴&quot;&lt;|(&quot;ENTITY&quot;">
+  <data key="d2">chunk-ae09d8cc60b0994e2115ddece8322649</data>
+  <data key="d1">"元朝"</data>
+  <data key="d0">"UNKNOWN"</data>
+  <data key="d3">[{"level": 0, "cluster": 3}, {"level": 1, "cluster": 4}]</data>
+</node>
+<edge source="&quot;朱元璋&quot;" target="&quot;朱五四&quot;">
+  <data key="d4">9.0</data>
+  <data key="d5">"朱五四是朱元璋的父亲，两人同属一个贫农家庭，共同面对生活中的艰辛。"</data>
+  <data key="d6">chunk-8091a468687529ab4647eec0e9f0e1dc</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;朱元璋&quot;" target="&quot;陈氏&quot;">
+  <data key="d4">9.0</data>
+  <data key="d5">"陈氏是朱元璋的母亲，同样来自贫农家庭，共同经历了朱元璋的童年时期。"</data>
+  <data key="d6">chunk-8091a468687529ab4647eec0e9f0e1dc</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;朱元璋&quot;" target="&quot;刘德&quot;">
+  <data key="d4">1.0</data>
+  <data key="d5">"朱元璋在童年时期曾为刘("entity"</data>
+  <data key="d6">chunk-8091a468687529ab4647eec0e9f0e1dc</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;朱元璋&quot;" target="&quot;朱百六&quot;">
+  <data key="d4">8.0</data>
+  <data key="d5">"朱百六是朱元璋的高祖，名字体现了元朝命名习俗。"</data>
+  <data key="d6">chunk-8091a468687529ab4647eec0e9f0e1dc</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;朱元璋&quot;" target="&quot;朱四九&quot;">
+  <data key="d4">8.0</data>
+  <data key="d5">"朱四九是朱元璋的曾祖，名字体现了元朝命名习俗。"</data>
+  <data key="d6">chunk-8091a468687529ab4647eec0e9f0e1dc</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;朱元璋&quot;" target="&quot;朱重八&quot;">
+  <data key="d4">10.0</data>
+  <data key="d5">"朱重八是朱元璋的早年身份，后来成为明朝的开国皇帝。"</data>
+  <data key="d6">chunk-b26706fdda696524be1e5ff48c2836c2</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;刘德&quot;" target="&quot;朱重八&quot;">
+  <data key="d4">7.0</data>
+  <data key="d5">"刘德拒绝帮助朱重八埋葬其父母，体现了当时社会的冷漠和朱重八面临的困境。"</data>
+  <data key="d6">chunk-b26706fdda696524be1e5ff48c2836c2</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;朱重八&quot;" target="&quot;元朝&quot;">
+  <data key="d4">17.0</data>
+  <data key="d5">"朱重八是元朝末年的农民，见证了元朝的衰败，并最终成为推翻元朝的领导人之一。&lt;SEP&gt;"朱重八最终决定反抗元朝的统治，成为起义军的一员。</data>
+  <data key="d6">chunk-90074c0167f1b96f110e0701bbd3370b&lt;SEP&gt;chunk-ae09d8cc60b0994e2115ddece8322649</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;朱重八&quot;" target="&quot;皇觉寺&quot;">
+  <data key="d4">17.0</data>
+  <data key="d5">"朱重八在皇觉寺经历了从无助到坚强的转变，这个地方对他的人生产生了深远的影响。"&lt;SEP&gt;"朱重八选择皇觉寺出家，寺里的生活虽然艰苦，但让他得以生存下去。"</data>
+  <data key="d6">chunk-9a76d8ffa3427c606f749054f4201706&lt;SEP&gt;chunk-b26706fdda696524be1e5ff48c2836c2</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;朱重八&quot;" target="&quot;淮西和河南&quot;">
+  <data key="d4">6.0</data>
+  <data key="d5">"朱重八在淮西和河南化缘，这些地方的饥荒使他的生活更加艰难，但也开阔了他的视野。"</data>
+  <data key="d6">chunk-b26706fdda696524be1e5ff48c2836c2</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;朱重八&quot;" target="&quot;明教&quot;">
+  <data key="d4">15.0</data>
+  <data key="d5">"朱重八信仰明教，相信弥勒佛会在黑暗时代降临，这种信仰支撑了他在苦难中的成长。"&lt;SEP&gt;"朱重八在化缘过程中形成了对明教的信仰，这成为他精神上的支撑。"</data>
+  <data key="d6">chunk-9a76d8ffa3427c606f749054f4201706&lt;SEP&gt;chunk-b26706fdda696524be1e5ff48c2836c2</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;朱重八&quot;" target="&quot;淮西&quot;">
+  <data key="d4">7.0</data>
+  <data key="d5">"朱重八在淮西度过了三年的讨饭生活，这段经历对他的成长产生了重要影响。"</data>
+  <data key="d6">chunk-9a76d8ffa3427c606f749054f4201706</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;朱重八&quot;" target="&quot;起义&quot;">
+  <data key="d4">8.0</data>
+  <data key="d5">"朱重八最初未参与起义，后因形势所迫加入起义军，成为起义的一部分。"</data>
+  <data key="d6">chunk-2c6a57e1314b2c844652242279238744</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;朱重八&quot;" target="&quot;汤和&quot;">
+  <data key="d4">15.0</data>
+  <data key="d5">"汤和是朱重八的同乡和战友，两人在起义军中一起经历了许多艰难时刻。&lt;SEP&gt;"汤和是朱重八的幼年朋友，邀请朱重八加入起义军，促使朱重八加入起义。"</data>
+  <data key="d6">chunk-2c6a57e1314b2c844652242279238744&lt;SEP&gt;chunk-ae09d8cc60b0994e2115ddece8322649</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;朱重八&quot;" target="&quot;寺庙&quot;">
+  <data key="d4">15.0</data>
+  <data key="d5">"朱重八在起义前曾躲在寺庙里，但最终因告发而不得不离开。&lt;SEP&gt;"朱重八最初在寺庙生活，过着枯燥而有规律的生活。"</data>
+  <data key="d6">chunk-2c6a57e1314b2c844652242279238744&lt;SEP&gt;chunk-ae09d8cc60b0994e2115ddece8322649</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;朱重八&quot;" target="&quot;起义军&quot;">
+  <data key="d4">9.0</data>
+  <data key="d5">"朱重八加入了起义军，成为起义军的一员，共同反对元朝的统治。</data>
+  <data key="d6">chunk-ae09d8cc60b0994e2115ddece8322649</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;朱重八&quot;" target="&quot;周德兴&quot;">
+  <data key="d4">6.0</data>
+  <data key="d5">"周德兴在朱重八面临抉择时给出了算卦的建议，虽然建议不太实际，但对朱重八的决定产生了影响。</data>
+  <data key="d6">chunk-ae09d8cc60b0994e2115ddece8322649</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;朱重八&quot;" target="&quot;郭子兴&quot;&lt;|(&quot;ENTITY&quot;">
+  <data key="d4">1.0</data>
+  <data key="d5">"元朝"</data>
+  <data key="d6">chunk-ae09d8cc60b0994e2115ddece8322649</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;元朝&quot;" target="&quot;脱脱&quot;">
+  <data key="d4">7.0</data>
+  <data key="d5">"脱脱是元朝的官员，主张治理黄河，但由于官僚腐败导致计划失败。"</data>
+  <data key="d6">chunk-9a76d8ffa3427c606f749054f4201706</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;元朝&quot;" target="&quot;韩山童&quot;">
+  <data key="d4">9.0</data>
+  <data key="d5">"韩山童领导起义反抗元朝的封建统治，是起义的主要领导者之一。"</data>
+  <data key="d6">chunk-2c6a57e1314b2c844652242279238744</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;元朝&quot;" target="&quot;刘福通&quot;">
+  <data key="d4">9.0</data>
+  <data key="d5">"刘福通与韩山童一起领导起义，反抗元朝的封建统治。"</data>
+  <data key="d6">chunk-2c6a57e1314b2c844652242279238744</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;元朝&quot;" target="&quot;起义&quot;">
+  <data key="d4">8.0</data>
+  <data key="d5">"元朝的镇压行动不仅未能平息起义，反而加剧了人民的反抗情绪，导致起义的爆发和蔓延。"</data>
+  <data key="d6">chunk-2c6a57e1314b2c844652242279238744</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;黄河泛滥&quot;" target="&quot;元至正四年&quot;">
+  <data key="d4">9.0</data>
+  <data key="d5">"元至正四年（1344年）发生了黄河泛滥，导致大量人口流离失所。</data>
+  <data key="d6">chunk-90074c0167f1b96f110e0701bbd3370b</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;淮河沿岸的瘟疫和旱灾&quot;" target="&quot;元至正四年&quot;">
+  <data key="d4">9.0</data>
+  <data key="d5">"元至正四年（1344年）淮河沿岸发生了严重的瘟疫和旱灾，对当地居民造成了巨大影响。</data>
+  <data key="d6">chunk-90074c0167f1b96f110e0701bbd3370b</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;元顺帝&quot;" target="&quot;中书省&quot;">
+  <data key="d4">8.0</data>
+  <data key="d5">"元顺帝通过中书省发布诏书赈灾，但实际效果有限。</data>
+  <data key="d6">chunk-90074c0167f1b96f110e0701bbd3370b</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;中书省&quot;" target="&quot;赈灾物品&quot;">
+  <data key="d4">7.0</data>
+  <data key="d5">"中书省负责联系粮食和银两，但赈灾物品在层层克扣后到达百姓手中时已所剩无几。</data>
+  <data key="d6">chunk-90074c0167f1b96f110e0701bbd3370b</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;至正十一年起义&quot;" target="&quot;韩山童&quot;">
+  <data key="d4">9.0</data>
+  <data key="d5">"韩山童是至正十一年起义的领导人之一，发起并领导了这次起义。"</data>
+  <data key="d6">chunk-9a76d8ffa3427c606f749054f4201706</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;韩山童&quot;" target="&quot;宋朝&quot;">
+  <data key="d4">8.0</data>
+  <data key="d5">"韩山童自称是宋朝皇室后裔，以此增强起义的合法性和号召力。"</data>
+  <data key="d6">chunk-9a76d8ffa3427c606f749054f4201706</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;韩山童&quot;" target="&quot;刘福通&quot;">
+  <data key="d4">1.0</data>
+  <data key="d5">"韩山童和刘福("entity"</data>
+  <data key="d6">chunk-2c6a57e1314b2c844652242279238744</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;刘福通&quot;" target="&quot;刘光世&quot;">
+  <data key="d4">8.0</data>
+  <data key="d5">"刘福通自称是宋朝将领刘光世的后人，以此增强起义的合法性和号召力。"</data>
+  <data key="d6">chunk-9a76d8ffa3427c606f749054f4201706</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;山东&quot;" target="&quot;石人&quot;">
+  <data key="d4">8.0</data>
+  <data key="d5">"石人是在山东挖出的，成为起义的导火索。"</data>
+  <data key="d6">chunk-9a76d8ffa3427c606f749054f4201706</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;汤和&quot;" target="&quot;起义军&quot;">
+  <data key="d4">7.0</data>
+  <data key="d5">"汤和是起义军的千户，邀请朱重八加入起义军。"</data>
+  <data key="d6">chunk-2c6a57e1314b2c844652242279238744</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;起义&quot;" target="&quot;陈胜吴广&quot;">
+  <data key="d4">8.0</data>
+  <data key="d5">"陈胜吴广是历史上最早的起义领导者，他们的命运与韩山童和刘福通的起义相似。"</data>
+  <data key="d6">chunk-2c6a57e1314b2c844652242279238744</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;蒙古人&quot;" target="&quot;南人&quot;">
+  <data key="d4">9.0</data>
+  <data key="d5">"蒙古人对南人实施压迫和歧视，南人处于社会的最底层。"</data>
+  <data key="d6">chunk-2c6a57e1314b2c844652242279238744</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;起义军&quot;" target="&quot;元的官吏&quot;">
+  <data key="d4">8.0</data>
+  <data key="d5">"元的官吏在镇压起义军时采用欺压百姓的手段，加剧了人民的反抗情绪。"</data>
+  <data key="d6">chunk-2c6a57e1314b2c844652242279238744</data>
+  <data key="d7">1</data>
+</edge>
+<edge source="&quot;朱重八的父母&quot;" target="&quot;皇(&quot;ENTITY&quot;">
+  <data key="d4">1.0</data>
+  <data key="d5">"person"</data>
+  <data key="d6">chunk-b26706fdda696524be1e5ff48c2836c2</data>
+  <data key="d7">1</data>
+</edge>
+</graph></graphml>

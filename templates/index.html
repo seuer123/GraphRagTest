@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>问答系统</title>
+    <link rel="stylesheet" href="/static/css/style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+</head>
+<body>
+    <div class="container">
+        <h1>graphrag</h1>
+        
+        <div class="mode-selection">
+            <h2><i class="fas fa-cog"></i> 选择模式</h2>
+            <div class="mode-buttons">
+                <button id="newIndexBtn" class="mode-btn active"><i class="fas fa-plus-circle"></i> 新建索引</button>
+                <button id="existingIndexBtn" class="mode-btn"><i class="fas fa-database"></i> 使用已有索引</button>
+            </div>
+        </div>
+        
+        <div class="upload-section">
+            <h2><i class="fas fa-cloud-upload-alt"></i> 上传文档</h2>
+            <div class="file-upload">
+                <input type="file" id="fileInput" accept=".txt" />
+                <label for="fileInput"><i class="fas fa-file-alt"></i> 选择TXT文件</label>
+                <span id="fileName">未选择文件</span>
+            </div>
+            <button id="uploadBtn" disabled><i class="fas fa-cogs"></i> 上传并构建索引</button>
+        </div>
+        
+        <div class="existing-index-section" style="display: none;">
+            <h2><i class="fas fa-folder-open"></i> 已有索引</h2>
+            <div id="indexList" class="index-list">
+                <p class="loading">正在加载已有索引...</p>
+            </div>
+        </div>
+        
+        <div class="progress-section" style="display: none;">
+            <h2><i class="fas fa-spinner fa-spin"></i> 索引构建进度</h2>
+            <div class="progress-container">
+                <div class="progress-bar" id="progressBar"></div>
+            </div>
+            <p id="progressStatus">准备中...</p>
+        </div>
+        
+        <div class="query-section" style="display: none;">
+            <h2><i class="fas fa-question-circle"></i> 提问问题</h2>
+            <div class="current-index">
+                <p>当前使用的索引: <span id="currentIndexName">未选择</span></p>
+                <button id="visualizeBtn" class="visualize-btn"><i class="fas fa-project-diagram"></i> 查看知识图谱</button>
+            </div>
+            <div class="search-mode">
+                <p>搜索模式:</p>
+                <div class="search-mode-options">
+                    <label class="search-mode-option">
+                        <input type="radio" name="searchMode" value="global" checked>
+                        <span class="radio-label"><i class="fas fa-globe"></i> 全局搜索</span>
+                        <span class="mode-description">搜索整个文档，适合概括性问题</span>
+                    </label>
+                    <label class="search-mode-option">
+                        <input type="radio" name="searchMode" value="local">
+                        <span class="radio-label"><i class="fas fa-search"></i> 局部搜索</span>
+                        <span class="mode-description">搜索相关段落，适合具体细节问题</span>
+                    </label>
+                </div>
+            </div>
+            <div class="query-input">
+                <input type="text" id="questionInput" placeholder="请输入您的问题..." />
+                <button id="askBtn"><i class="fas fa-paper-plane"></i> 提问</button>
+            </div>
+            <div class="answer-container">
+                <h3><i class="fas fa-comment-dots"></i> 回答：</h3>
+                <div id="answerContent" class="answer-content">
+                    <p class="placeholder">问题的回答将显示在这里...</p>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <div id="debugArea" style="margin-top: 30px; display: none;">
+        <h2><i class="fas fa-bug"></i> 调试信息</h2>
+        <div id="debugOutput" class="debug-output"></div>
+    </div>
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/js/all.min.js"></script>
+    <script src="/static/js/main.js"></script>
+</body>
+</html> 

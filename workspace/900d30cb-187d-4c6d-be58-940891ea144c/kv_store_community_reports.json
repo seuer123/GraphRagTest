@@ -1,0 +1,491 @@
+{
+  "3": {
+    "report_string": "# JD International and Chinese E-Commerce Ecosystem\n\nIntegration of DingTalk for Business Purposes\n\n## [\n\n\n\n## \n\n\n\n\n##  \n\n\n\n##  \n\n\n\n##  \n\n\n\n##  \n\n\n\n##  \n\n\n\n##  \n\n\n\n##  \n\n\n\n##  \n\n\n\n## {\n\n\n\n## \n\n\n\n\n##  \n\n\n\n##  \n\n\n\n##  \n\n\n\n##  \n\n\n\n##  \n\n\n\n##  \n\n\n\n##  \n\n\n\n##  \n\n\n\n##  \n\n\n\n##  \n\n\n\n##  \n\n\n\n##  \n\n\n\n## \"\n\n\n\n## s\n\n\n\n## u\n\n\n\n## m\n\n\n\n## m\n\n\n\n## a\n\n\n\n## r\n\n\n\n## y\n\n\n\n## \"\n\n\n\n## :\n\n\n\n##  \n\n\n\n## \"\n\n\n\n## J\n\n\n\n## D\n\n\n\n##  \n\n\n\n## a\n\n\n\n## n\n\n\n\n## d\n\n\n\n##  \n\n\n\n## J\n\n\n\n## D\n\n\n\n##  \n\n\n\n## I\n\n\n\n## n\n\n\n\n## t\n\n\n\n## e\n\n\n\n## r\n\n\n\n## n\n\n\n\n## a\n\n\n\n## t\n\n\n\n## i\n\n\n\n## o\n\n\n\n## n\n\n\n\n## a\n\n\n\n## l\n\n\n\n## '\n\n\n\n## s\n\n\n\n##  \n\n\n\n## R\n\n\n\n## o\n\n\n\n## l\n\n\n\n## e\n\n\n\n##  \n\n\n\n## i\n\n\n\n## n\n\n\n\n##  \n\n\n\n## t\n\n\n\n## h\n\n\n\n## e\n\n\n\n##  \n\n\n\n## E\n\n\n\n## c\n\n\n\n## o\n\n\n\n## s\n\n\n\n## y\n\n\n\n## s\n\n\n\n## t\n\n\n\n## e\n\n\n\n## m\n\n",
+    "report_json": {
+      "title": "JD International and Chinese E-Commerce Ecosystem",
+      "summary": "Integration of DingTalk for Business Purposes",
+      "rating": 7.5,
+      "rating_explanation": "The impact severity rating is high due to the significant role of these e-commerce platforms in both domestic and international markets, and the potential for these platforms to influence consumer behavior and market trends.",
+      "findings": "[\n        {\n            \"summary\": \"JD and JD International's Role in the Ecosystem",
+      "explanation": "DingTalk is used by users to manage and share information related to orders from JD International and 唯品会. This integration of DingTalk with e-commerce platforms highlights a blend of personal and business use"
+    },
+    "level": 0,
+    "title": "Cluster 3",
+    "edges": [
+      [
+        "\"唯品会\"",
+        "\"用户\""
+      ],
+      [
+        "\"京东国际\"",
+        "\"用户\""
+      ],
+      [
+        "\"京东\"",
+        "\"京东国际\""
+      ],
+      [
+        "\"京东\"",
+        "\"用户\""
+      ],
+      [
+        "\"京东\"",
+        "\"唯品会\""
+      ],
+      [
+        "\"京东国际\"",
+        "\"登录账号\""
+      ],
+      [
+        "\"唯品会\"",
+        "\"钉钉\""
+      ],
+      [
+        "\"淘宝\"",
+        "\"用户\""
+      ],
+      [
+        "\"京东国际\"",
+        "\"钉钉\""
+      ]
+    ],
+    "nodes": [
+      "\"淘宝\"",
+      "\"登录账号\"",
+      "\"京东国际\"",
+      "\"唯品会\"",
+      "\"用户\""
+    ],
+    "chunk_ids": [
+      "chunk-bd3127c4903686f8bcef11a5c4acb5d3",
+      "chunk-505e75bd34d1c89169f88913b15b44d2",
+      "chunk-b9456a78eb751575a168042b2bc43533",
+      "chunk-04325abd2b6cb1a9337f84f21191eef2",
+      "chunk-63ad3bc0685983f634f5d2491076bcac",
+      "chunk-c1d7f39624d58e7a897faa20dab72060",
+      "chunk-cce7da72624787e362aa28d2acfaf5ec",
+      "chunk-402e3cd68d26a8644b8c512587a514f2",
+      "chunk-bdcbaa514e612579c09f028b28e6da65"
+    ],
+    "occurrence": 0.5294117647058824,
+    "sub_communities": []
+  },
+  "2": {
+    "report_string": "# 京东 and Its Ecosystem\n\nProduct Search and Sorting Features\n\n## [\n\n\n\n## \n\n\n\n\n##  \n\n\n\n##  \n\n\n\n##  \n\n\n\n##  \n\n\n\n##  \n\n\n\n##  \n\n\n\n##  \n\n\n\n##  \n\n\n\n## {\n\n\n\n## \n\n\n\n\n##  \n\n\n\n##  \n\n\n\n##  \n\n\n\n##  \n\n\n\n##  \n\n\n\n##  \n\n\n\n##  \n\n\n\n##  \n\n\n\n##  \n\n\n\n##  \n\n\n\n##  \n\n\n\n##  \n\n\n\n## \"\n\n\n\n## s\n\n\n\n## u\n\n\n\n## m\n\n\n\n## m\n\n\n\n## a\n\n\n\n## r\n\n\n\n## y\n\n\n\n## \"\n\n\n\n## :\n\n\n\n##  \n\n\n\n## \"\n\n\n\n## 京\n\n\n\n## 东\n\n\n\n##  \n\n\n\n## a\n\n\n\n## s\n\n\n\n##  \n\n\n\n## a\n\n\n\n##  \n\n\n\n## C\n\n\n\n## e\n\n\n\n## n\n\n\n\n## t\n\n\n\n## r\n\n\n\n## a\n\n\n\n## l\n\n\n\n##  \n\n\n\n## H\n\n\n\n## u\n\n\n\n## b\n\n",
+    "report_json": {
+      "title": "京东 and Its Ecosystem",
+      "summary": "Product Search and Sorting Features",
+      "rating": 7.5,
+      "rating_explanation": "The impact severity rating is high due to the significant influence of 京东 in the Chinese e-commerce market and its extensive ecosystem of products and services.",
+      "findings": "[\n        {\n            \"summary\": \"京东 as a Central Hub",
+      "explanation": "京东 provides several features to enhance the user experience"
+    },
+    "level": 0,
+    "title": "Cluster 2",
+    "edges": [
+      [
+        "\"京东\"",
+        "\"石昊\""
+      ],
+      [
+        "\"123\"",
+        "\"京东\""
+      ],
+      [
+        "\"京东\"",
+        "\"电视机\""
+      ],
+      [
+        "\"DINGTALK\"",
+        "\"京东\""
+      ],
+      [
+        "\"京东\"",
+        "\"最贵的笔记本电脑\""
+      ],
+      [
+        "\"京东\"",
+        "\"牙刷\""
+      ],
+      [
+        "\"QQ\"",
+        "\"京东\""
+      ],
+      [
+        "\"IPHONE\"",
+        "\"京东\""
+      ],
+      [
+        "\"京东\"",
+        "\"象印保温杯\""
+      ],
+      [
+        "\"京东\"",
+        "\"索隆\""
+      ],
+      [
+        "\"京东\"",
+        "\"钉钉\""
+      ],
+      [
+        "\"京东\"",
+        "\"李宁\""
+      ],
+      [
+        "\"京东\"",
+        "\"用户\""
+      ],
+      [
+        "\"京东\"",
+        "\"查看物流\""
+      ],
+      [
+        "\"京东\"",
+        "\"拓海\""
+      ],
+      [
+        "\"京东\"",
+        "\"唯品会\""
+      ],
+      [
+        "\"京东\"",
+        "\"待收货/使用\""
+      ],
+      [
+        "\"京东\"",
+        "\"笔记本电脑搜索\""
+      ],
+      [
+        "\"23\"",
+        "\"京东\""
+      ],
+      [
+        "\"111111111\"",
+        "\"京东\""
+      ],
+      [
+        "\"京东\"",
+        "\"查询最畅销电视机\""
+      ],
+      [
+        "\"京东\"",
+        "\"京东国际\""
+      ],
+      [
+        "\"京东\"",
+        "\"象印\"<|(\"ENTITY\""
+      ],
+      [
+        "\"京东\"",
+        "\"搜索商品\""
+      ],
+      [
+        "\"京东\"",
+        "\"雪村\""
+      ],
+      [
+        "\"京东\"",
+        "\"笔记本电脑\""
+      ],
+      [
+        "\"JD_BUYER@SHOP.COM\"",
+        "\"京东\""
+      ],
+      [
+        "\"345\"",
+        "\"京东\""
+      ],
+      [
+        "\"京东\"",
+        "\"小明\""
+      ],
+      [
+        "\"京东\"",
+        "\"评论数按钮\""
+      ],
+      [
+        "\"京东\"",
+        "\"最畅销笔记本电脑记录\""
+      ],
+      [
+        "\"京东\"",
+        "\"张三\""
+      ],
+      [
+        "\"京东\"",
+        "\"价格按钮\""
+      ],
+      [
+        "\"京东\"",
+        "\"王五\""
+      ],
+      [
+        "\"京东\"",
+        "\"京东商智商家版\""
+      ]
+    ],
+    "nodes": [
+      "\"索隆\"",
+      "\"雪村\"",
+      "\"345\"",
+      "\"最畅销笔记本电脑记录\"",
+      "\"查询最畅销电视机\"",
+      "\"23\"",
+      "\"象印\"<|(\"ENTITY\"",
+      "\"IPHONE\"",
+      "\"王五\"",
+      "\"电视机\"",
+      "\"DINGTALK\"",
+      "\"查看物流\"",
+      "\"笔记本电脑搜索\"",
+      "\"123\"",
+      "\"李宁\"",
+      "\"价格按钮\"",
+      "\"评论数按钮\"",
+      "\"象印保温杯\"",
+      "\"张三\"",
+      "\"JD_BUYER@SHOP.COM\"",
+      "\"最贵的笔记本电脑\"",
+      "\"111111111\"",
+      "\"笔记本电脑\"",
+      "\"待收货/使用\"",
+      "\"京东\"",
+      "\"小明\"",
+      "\"牙刷\""
+    ],
+    "chunk_ids": [
+      "chunk-111e3a99ab3dfa37226d474cf683b165",
+      "chunk-427d5b4d1ceeb7f9eb8077a66a05b4ba",
+      "chunk-f788c884a129889a409d63653e8253fa",
+      "chunk-cce7da72624787e362aa28d2acfaf5ec",
+      "chunk-2cbf3c15c8d390deeece4264e99ab2e4",
+      "chunk-b9456a78eb751575a168042b2bc43533",
+      "chunk-505e75bd34d1c89169f88913b15b44d2",
+      "chunk-04325abd2b6cb1a9337f84f21191eef2",
+      "chunk-c4fc401f0b2d00ff0d07c7f017dbe262",
+      "chunk-d9e1d23a7dcfa43c2aa489e8aad5dfd7",
+      "chunk-d2159607b60e4c40504e9ad2ddb4027f",
+      "chunk-63ad3bc0685983f634f5d2491076bcac",
+      "chunk-c1d7f39624d58e7a897faa20dab72060",
+      "chunk-ab43fa60c3f316e514d3f34e808777bb",
+      "chunk-bd3127c4903686f8bcef11a5c4acb5d3",
+      "chunk-402e3cd68d26a8644b8c512587a514f2",
+      "chunk-bdcbaa514e612579c09f028b28e6da65"
+    ],
+    "occurrence": 1.0,
+    "sub_communities": []
+  },
+  "5": {
+    "report_string": "# 京东商品搜索与保存社区\n\n用户行为的记录与分析\n\n## [\n\n\n\n## \n\n\n\n\n##  \n\n\n\n##  \n\n\n\n##  \n\n\n\n##  \n\n\n\n##  \n\n\n\n##  \n\n\n\n##  \n\n\n\n##  \n\n\n\n## {\n\n\n\n## \n\n\n\n\n##  \n\n\n\n##  \n\n\n\n##  \n\n\n\n##  \n\n\n\n##  \n\n\n\n##  \n\n\n\n##  \n\n\n\n##  \n\n\n\n##  \n\n\n\n##  \n\n\n\n##  \n\n\n\n##  \n\n\n\n## \"\n\n\n\n## s\n\n\n\n## u\n\n\n\n## m\n\n\n\n## m\n\n\n\n## a\n\n\n\n## r\n\n\n\n## y\n\n\n\n## \"\n\n\n\n## :\n\n\n\n##  \n\n\n\n## \"\n\n\n\n## 京\n\n\n\n## 东\n\n\n\n## 平\n\n\n\n## 台\n\n\n\n## 作\n\n\n\n## 为\n\n\n\n## 核\n\n\n\n## 心\n\n\n\n## 实\n\n\n\n## 体\n\n",
+    "report_json": {
+      "title": "京东商品搜索与保存社区",
+      "summary": "用户行为的记录与分析",
+      "rating": 3.5,
+      "rating_explanation": "该社区的影响力较低，主要涉及用户在京东平台上的常规购物行为，不涉及重大风险或潜在威胁。",
+      "findings": "[\n        {\n            \"summary\": \"京东平台作为核心实体",
+      "explanation": "京东平台通过"
+    },
+    "level": 0,
+    "title": "Cluster 5",
+    "edges": [
+      [
+        "\"手机\"",
+        "\"搜索商品\""
+      ],
+      [
+        "\"保存文件\"",
+        "\"搜索商品\""
+      ],
+      [
+        "\"京东\"",
+        "\"搜索商品\""
+      ]
+    ],
+    "nodes": [
+      "\"保存文件\"",
+      "\"搜索商品\"",
+      "\"手机\""
+    ],
+    "chunk_ids": [
+      "chunk-427d5b4d1ceeb7f9eb8077a66a05b4ba",
+      "chunk-2cbf3c15c8d390deeece4264e99ab2e4",
+      "chunk-63ad3bc0685983f634f5d2491076bcac",
+      "chunk-d2159607b60e4c40504e9ad2ddb4027f",
+      "chunk-c1d7f39624d58e7a897faa20dab72060",
+      "chunk-402e3cd68d26a8644b8c512587a514f2",
+      "chunk-bd3127c4903686f8bcef11a5c4acb5d3",
+      "chunk-cce7da72624787e362aa28d2acfaf5ec"
+    ],
+    "occurrence": 0.47058823529411764,
+    "sub_communities": []
+  },
+  "4": {
+    "report_string": "# DingTalk and JD.com Business Community\n\nFile Sharing and Communication Events\n\n## [\n\n\n\n## \n\n\n\n\n##  \n\n\n\n##  \n\n\n\n##  \n\n\n\n##  \n\n\n\n##  \n\n\n\n##  \n\n\n\n##  \n\n\n\n##  \n\n\n\n## {\n\n\n\n## \n\n\n\n\n##  \n\n\n\n##  \n\n\n\n##  \n\n\n\n##  \n\n\n\n##  \n\n\n\n##  \n\n\n\n##  \n\n\n\n##  \n\n\n\n##  \n\n\n\n##  \n\n\n\n##  \n\n\n\n##  \n\n\n\n## \"\n\n\n\n## s\n\n\n\n## u\n\n\n\n## m\n\n\n\n## m\n\n\n\n## a\n\n\n\n## r\n\n\n\n## y\n\n\n\n## \"\n\n\n\n## :\n\n\n\n##  \n\n\n\n## \"\n\n\n\n## D\n\n\n\n## i\n\n\n\n## n\n\n\n\n## g\n\n\n\n## T\n\n\n\n## a\n\n\n\n## l\n\n\n\n## k\n\n\n\n##  \n\n\n\n## a\n\n\n\n## s\n\n\n\n##  \n\n\n\n## t\n\n\n\n## h\n\n\n\n## e\n\n\n\n##  \n\n\n\n## C\n\n\n\n## e\n\n\n\n## n\n\n\n\n## t\n\n\n\n## r\n\n\n\n## a\n\n\n\n## l\n\n\n\n##  \n\n\n\n## C\n\n\n\n## o\n\n\n\n## m\n\n\n\n## m\n\n\n\n## u\n\n\n\n## n\n\n\n\n## i\n\n\n\n## c\n\n\n\n## a\n\n\n\n## t\n\n\n\n## i\n\n\n\n## o\n\n\n\n## n\n\n\n\n##  \n\n\n\n## P\n\n\n\n## l\n\n\n\n## a\n\n\n\n## t\n\n\n\n## f\n\n\n\n## o\n\n\n\n## r\n\n\n\n## m\n\n",
+    "report_json": {
+      "title": "DingTalk and JD.com Business Community",
+      "summary": "File Sharing and Communication Events",
+      "rating": 4.5,
+      "rating_explanation": "The impact severity rating is moderate-low due to the community's focus on business operations and communication, which poses minimal risk but is significant for operational efficiency.",
+      "findings": "[\n        {\n            \"summary\": \"DingTalk as the Central Communication Platform",
+      "explanation": "The event of '发送文件"
+    },
+    "level": 0,
+    "title": "Cluster 4",
+    "edges": [
+      [
+        "\"京东\"",
+        "\"石昊\""
+      ],
+      [
+        "\"钉钉\"",
+        "\"高渐离\""
+      ],
+      [
+        "\"京东\"",
+        "\"拓海\""
+      ],
+      [
+        "\"石昊\"",
+        "\"钉钉\""
+      ],
+      [
+        "\"拓海\"",
+        "\"钉钉\""
+      ],
+      [
+        "\"发送文件\"",
+        "\"钉钉\""
+      ],
+      [
+        "\"发送文件\"",
+        "\"石昊\""
+      ],
+      [
+        "\"唯品会\"",
+        "\"钉钉\""
+      ],
+      [
+        "\"京东国际\"",
+        "\"钉钉\""
+      ],
+      [
+        "\"京东\"",
+        "\"钉钉\""
+      ]
+    ],
+    "nodes": [
+      "\"钉钉\"",
+      "\"高渐离\"",
+      "\"拓海\"",
+      "\"发送文件\"",
+      "\"石昊\""
+    ],
+    "chunk_ids": [
+      "chunk-111e3a99ab3dfa37226d474cf683b165",
+      "chunk-2cbf3c15c8d390deeece4264e99ab2e4",
+      "chunk-b9456a78eb751575a168042b2bc43533",
+      "chunk-505e75bd34d1c89169f88913b15b44d2",
+      "chunk-04325abd2b6cb1a9337f84f21191eef2",
+      "chunk-d9e1d23a7dcfa43c2aa489e8aad5dfd7",
+      "chunk-d2159607b60e4c40504e9ad2ddb4027f",
+      "chunk-63ad3bc0685983f634f5d2491076bcac",
+      "chunk-c1d7f39624d58e7a897faa20dab72060",
+      "chunk-ab43fa60c3f316e514d3f34e808777bb",
+      "chunk-cce7da72624787e362aa28d2acfaf5ec",
+      "chunk-402e3cd68d26a8644b8c512587a514f2",
+      "chunk-bdcbaa514e612579c09f028b28e6da65"
+    ],
+    "occurrence": 0.7647058823529411,
+    "sub_communities": []
+  },
+  "0": {
+    "report_string": "# 京东商智商家版 Community\n\nMerchants' Utilization of 京东商智商家版\n\n## [\n\n\n\n## \n\n\n\n\n##  \n\n\n\n##  \n\n\n\n##  \n\n\n\n##  \n\n\n\n##  \n\n\n\n##  \n\n\n\n##  \n\n\n\n##  \n\n\n\n## {\n\n\n\n## \n\n\n\n\n##  \n\n\n\n##  \n\n\n\n##  \n\n\n\n##  \n\n\n\n##  \n\n\n\n##  \n\n\n\n##  \n\n\n\n##  \n\n\n\n##  \n\n\n\n##  \n\n\n\n##  \n\n\n\n##  \n\n\n\n## \"\n\n\n\n## s\n\n\n\n## u\n\n\n\n## m\n\n\n\n## m\n\n\n\n## a\n\n\n\n## r\n\n\n\n## y\n\n\n\n## \"\n\n\n\n## :\n\n\n\n##  \n\n\n\n## \"\n\n\n\n## R\n\n\n\n## o\n\n\n\n## l\n\n\n\n## e\n\n\n\n##  \n\n\n\n## o\n\n\n\n## f\n\n\n\n##  \n\n\n\n## 京\n\n\n\n## 东\n\n\n\n## 商\n\n\n\n## 智\n\n\n\n## 商\n\n\n\n## 家\n\n\n\n## 版\n\n\n\n##  \n\n\n\n## i\n\n\n\n## n\n\n\n\n##  \n\n\n\n## M\n\n\n\n## e\n\n\n\n## r\n\n\n\n## c\n\n\n\n## h\n\n\n\n## a\n\n\n\n## n\n\n\n\n## t\n\n\n\n##  \n\n\n\n## A\n\n\n\n## n\n\n\n\n## a\n\n\n\n## l\n\n\n\n## y\n\n\n\n## t\n\n\n\n## i\n\n\n\n## c\n\n\n\n## s\n\n",
+    "report_json": {
+      "title": "京东商智商家版 Community",
+      "summary": "Merchants' Utilization of 京东商智商家版",
+      "rating": 4.0,
+      "rating_explanation": "The impact severity rating is moderate due to the tool's importance in business management and data analysis for merchants on the JD platform.",
+      "findings": "[\n        {\n            \"summary\": \"Role of 京东商智商家版 in Merchant Analytics",
+      "explanation": "Merchants"
+    },
+    "level": 0,
+    "title": "Cluster 0",
+    "edges": [
+      [
+        "\"123456789\"",
+        "\"京东商智商家版\""
+      ],
+      [
+        "\"京东商智商家版\"",
+        "\"流量概况\""
+      ],
+      [
+        "\"京东商智商家版\"",
+        "\"农夫山泉\""
+      ],
+      [
+        "\"京东商智商家版\"",
+        "\"商家\""
+      ],
+      [
+        "\"京东\"",
+        "\"京东商智商家版\""
+      ]
+    ],
+    "nodes": [
+      "\"商家\"",
+      "\"123456789\"",
+      "\"农夫山泉\"",
+      "\"京东商智商家版\"",
+      "\"流量概况\""
+    ],
+    "chunk_ids": [
+      "chunk-f788c884a129889a409d63653e8253fa",
+      "chunk-b9456a78eb751575a168042b2bc43533",
+      "chunk-04325abd2b6cb1a9337f84f21191eef2",
+      "chunk-505e75bd34d1c89169f88913b15b44d2",
+      "chunk-d9e1d23a7dcfa43c2aa489e8aad5dfd7",
+      "chunk-d2159607b60e4c40504e9ad2ddb4027f",
+      "chunk-63ad3bc0685983f634f5d2491076bcac",
+      "chunk-c1d7f39624d58e7a897faa20dab72060",
+      "chunk-bd3127c4903686f8bcef11a5c4acb5d3",
+      "chunk-111e3a99ab3dfa37226d474cf683b165"
+    ],
+    "occurrence": 0.5882352941176471,
+    "sub_communities": []
+  },
+  "1": {
+    "report_string": "# QQ and Family Group Community\n\nPotential for Enhanced User Experience\n\n## [\n\n\n\n## \n\n\n\n\n##  \n\n\n\n##  \n\n\n\n##  \n\n\n\n##  \n\n\n\n##  \n\n\n\n##  \n\n\n\n##  \n\n\n\n##  \n\n\n\n## {\n\n\n\n## \n\n\n\n\n##  \n\n\n\n##  \n\n\n\n##  \n\n\n\n##  \n\n\n\n##  \n\n\n\n##  \n\n\n\n##  \n\n\n\n##  \n\n\n\n##  \n\n\n\n##  \n\n\n\n##  \n\n\n\n##  \n\n\n\n## \"\n\n\n\n## s\n\n\n\n## u\n\n\n\n## m\n\n\n\n## m\n\n\n\n## a\n\n\n\n## r\n\n\n\n## y\n\n\n\n## \"\n\n\n\n## :\n\n\n\n##  \n\n\n\n## \"\n\n\n\n## Q\n\n\n\n## Q\n\n\n\n##  \n\n\n\n## a\n\n\n\n## s\n\n\n\n##  \n\n\n\n## a\n\n\n\n##  \n\n\n\n## C\n\n\n\n## e\n\n\n\n## n\n\n\n\n## t\n\n\n\n## r\n\n\n\n## a\n\n\n\n## l\n\n\n\n##  \n\n\n\n## P\n\n\n\n## l\n\n\n\n## a\n\n\n\n## t\n\n\n\n## f\n\n\n\n## o\n\n\n\n## r\n\n\n\n## m\n\n",
+    "report_json": {
+      "title": "QQ and Family Group Community",
+      "summary": "Potential for Enhanced User Experience",
+      "rating": 4.0,
+      "rating_explanation": "The impact severity rating is low to moderate due to the community's focus on communication and integration, with limited potential for significant negative consequences.",
+      "findings": "[\n        {\n            \"summary\": \"QQ as a Central Platform",
+      "explanation": "The integration of QQ with JD and the use of QQ for family communication highlight the potential for enhancing user experience through seamless integration"
+    },
+    "level": 0,
+    "title": "Cluster 1",
+    "edges": [
+      [
+        "\"QQ\"",
+        "\"家庭群\""
+      ],
+      [
+        "\"QQ\"",
+        "\"京东\""
+      ]
+    ],
+    "nodes": [
+      "\"家庭群\"",
+      "\"QQ\""
+    ],
+    "chunk_ids": [
+      "chunk-04325abd2b6cb1a9337f84f21191eef2",
+      "chunk-ab43fa60c3f316e514d3f34e808777bb",
+      "chunk-bd3127c4903686f8bcef11a5c4acb5d3"
+    ],
+    "occurrence": 0.17647058823529413,
+    "sub_communities": []
+  }
+}
